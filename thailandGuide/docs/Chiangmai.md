@@ -20,13 +20,16 @@ slug: /607af55b-4cf0-471e-8ad7-8e8e9c491722
 # Аренда личного транспорта {#f376418816484c04b2229bb13f1577d6}
 
 
-[Transport Rentals (1)](7effba1a-6114-4d8b-9b81-e9328a5ddfd8)
+[Transport Rentals](7effba1a-6114-4d8b-9b81-e9328a5ddfd8)
 
 
 # Еда-Рынки {#b779033880f9450bbe500a845cea0e34}
 
 
 **Кафе и Рестораны**
+
+
+WAKO BAKE [https://goo.gl/maps/eHu8Etm7uA49AhDC9](https://goo.gl/maps/eHu8Etm7uA49AhDC9)
 
 
 **Рынки**
@@ -74,7 +77,7 @@ _03-11 December_
 # Бары-клубы {#083e2cd45c9e40d7a86b08a6f3732add}
 
 
-[Bars & Clubs (1)](402895fc-0982-4ba8-a46b-c8beb8231a22)
+[Bars & Clubs](402895fc-0982-4ba8-a46b-c8beb8231a22)
 
 
 # Коворкинги {#3f0037c02d634f128e5a12c21392b30b}
