@@ -15,7 +15,6 @@
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   tutorialSidebar: [
-    'Chiangmai',
     'General-Thailand-Guide',
     {
       type: 'category',
