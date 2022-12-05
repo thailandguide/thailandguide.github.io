@@ -65,15 +65,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'Generad-Thailand-Guide',
+            docId: 'General-Thailand-Guide',
             position: 'left',
             label: 'General Guide',
-          },
-          {
-            type: 'doc',
-            docId: 'Chiangmai',
-            position: 'left',
-            label: 'Cities',
           },
           {
             to: '/blog', 
