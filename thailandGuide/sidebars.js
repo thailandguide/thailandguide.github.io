@@ -19,7 +19,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Cities',
-      items: ['Chiangmai'],
+      items: ['Chiangmai', 'Samui', 'Phangan', 'Phuket', 'Pattaya', 'Bangkok', 'Экстренная помощь'],
     },
   ],
 
