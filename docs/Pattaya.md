@@ -6,7 +6,7 @@ slug: /df8acbcc-b10f-4fca-9ee1-482327ecbec8
 
 
 
-## Аренда личного транспорта {#70c770d967bf4512bed6e1a0e0efd7ee}
+## Аренда транспорта {#transport}
 
 
 [Transport Rentals]
@@ -24,7 +24,7 @@ slug: /df8acbcc-b10f-4fca-9ee1-482327ecbec8
 ## События(Events) {#dbe107d3caed4e61a116f97e5a634e96}
 
 
-## Достопримечательности/Вьюпоинты/Места стоящие посещения {#984530e5f34848fab7f606ff2110627d}
+## Стоит посмотреть {#good-to-see}
 
 
 ## Бары-клубы {#14865e4ef9304b71b02a6a8acd8968c9}
