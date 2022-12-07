@@ -20,13 +20,13 @@ slug: /4045a3d6-d516-4812-905b-e4bcb76e0e05
 # Перелёт {#2b6dbba2420f4e7db3faa79192f9514f}
 
 
-[Flights (1)](6ac01338-89ae-4077-a554-48911cad8f1c)
+[Flights (1)]
 
 
 # Виза {#a642d428c1474edbbddce20d6a66b26f}
 
 
-[Visa (1)](2e43b048-eec6-4d86-ba6f-b19cfca53a3c)
+[Visa (1)]
 
 
 # Сим-карты {#983ffaccd23749218667ccecbaf439f0}
@@ -113,7 +113,7 @@ Lazada iOS **|** Android
 # Банки {#d7e943b6199f40ce9c580b138eb52135}
 
 
-[Banks (1)](d83364d1-5970-4b20-9b56-d0f1304e8bf0)
+[Banks (1)]
 
 
 # Страховки {#e59389e63a474101bab6a44aa12b496e}

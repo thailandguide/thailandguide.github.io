@@ -20,7 +20,7 @@ slug: /d712c9ef-312c-464a-bd82-3e598d6eb9cc
 # Аренда личного транспорта {#bec7d2ba40454c51ad7f59d36439a87b}
 
 
-[Transport Rentals](dd8cb49f-87d6-458e-a284-bd16a5d48c6b)
+[Transport Rentals]
 
 
 # Еда-Рынки {#752b55006fe54e76a09ce5c5bfc88e79}
@@ -41,7 +41,7 @@ slug: /d712c9ef-312c-464a-bd82-3e598d6eb9cc
 # Бары-клубы {#042e7df52eb644369b1aabd6c58e1f08}
 
 
-[Bars & Clubs](a9cd70dc-fd41-4eae-80ff-a70f5ef5df92)
+[Bars & Clubs]
 
 
 # Коворкинги {#56abcafc83a94d26b1ceaca60bf9d304}
