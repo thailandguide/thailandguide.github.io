@@ -4,41 +4,28 @@ sidebar_position: 0
 slug: /4045a3d6-d516-4812-905b-e4bcb76e0e05
 ---
 
-
-
-**Overview**
-
-- Перелёт
-- Виза
-- Операторы мобильной связи
-- Приложения
-- Транспорт/Передвижения по Таю
-- Банки
-- Страховки
-- Обмен валюты
-
-# Перелёт {#2b6dbba2420f4e7db3faa79192f9514f}
+## Перелёт {#2b6dbba2420f4e7db3faa79192f9514f}
 
 
 [Flights (1)]
 
 
-# Виза {#a642d428c1474edbbddce20d6a66b26f}
+## Виза {#a642d428c1474edbbddce20d6a66b26f}
 
 
 [Visa (1)]
 
 
-# Сим-карты {#983ffaccd23749218667ccecbaf439f0}
+## Сим-карты {#983ffaccd23749218667ccecbaf439f0}
 
 
-## [Dtac](https://www.dtac.co.th/en) {#ee9f6ed2b37d484b8a7419c7902657b4}
+# [Dtac](https://www.dtac.co.th/en) {#ee9f6ed2b37d484b8a7419c7902657b4}
 
 
 Best Prices
 
 
-## [AIS](https://www.ais.th/en/) {#c165d3db69b540459d9cc22534b9927d}
+# [AIS](https://www.ais.th/en/) {#c165d3db69b540459d9cc22534b9927d}
 
 
 Best Internet
@@ -56,7 +43,7 @@ Best Internet
 [Больше…](https://life-trip.ru/mobilnyj-internet-v-tajlande-i-svyaz/)
 
 
-# Приложения {#e59dcdceab4946a089864ba72f5116bf}
+## Приложения {#e59dcdceab4946a089864ba72f5116bf}
 
 
 **Такси**
@@ -92,7 +79,7 @@ Line iOS **|** Android
 Lazada iOS **|** Android
 
 
-# Транспорт между островами/паромы/автобусы {#0b665fb1e0f246e3b55361220c0cd08c}
+## Транспорт между островами/паромы/автобусы {#0b665fb1e0f246e3b55361220c0cd08c}
 
 
 [https://12go.co](https://12go.co/en)
@@ -110,14 +97,14 @@ Lazada iOS **|** Android
 [https://www.haadrinqueen.com](https://www.haadrinqueen.com/)
 
 
-# Банки {#d7e943b6199f40ce9c580b138eb52135}
+## Банки {#d7e943b6199f40ce9c580b138eb52135}
 
 
 [Banks (1)]
 
 
-# Страховки {#e59389e63a474101bab6a44aa12b496e}
+## Страховки {#e59389e63a474101bab6a44aa12b496e}
 
 
-# Обмен валюты {#2e4042e14cfa401e96c7aecc67a6ad2b}
+## Обмен валюты {#2e4042e14cfa401e96c7aecc67a6ad2b}
 

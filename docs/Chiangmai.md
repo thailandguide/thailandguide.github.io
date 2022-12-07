@@ -6,24 +6,13 @@ slug: /607af55b-4cf0-471e-8ad7-8e8e9c491722
 
 
 
-**Overview**
-
-- Районы
-- Аренда личного транспорта
-- Еда-Рынки
-- События(Events)
-- Достопримечательности/Вьюпоинты/Места стоящие посещения
-- Бары-клубы
-- Коворкинги
-- Аренда жилья
-
-# Аренда личного транспорта {#f376418816484c04b2229bb13f1577d6}
+## Аренда личного транспорта {#f376418816484c04b2229bb13f1577d6}
 
 
 [Transport Rentals]
 
 
-# Еда-Рынки {#b779033880f9450bbe500a845cea0e34}
+## Еда-Рынки {#b779033880f9450bbe500a845cea0e34}
 
 
 **Кафе и Рестораны**
@@ -44,7 +33,7 @@ Chiang Mai Gate Market [https://goo.gl/maps/MiJVRY4qBxQGeaQR8](https://goo.gl/ma
 Chiang Mai University Night Market [https://goo.gl/maps/DSdJMrmrZcqG4nKaA](https://goo.gl/maps/DSdJMrmrZcqG4nKaA)
 
 
-# События(Events) {#0491fd70b5104932b7647e5f5274ef75}
+## События(Events) {#0491fd70b5104932b7647e5f5274ef75}
 
 
 **Loy Krathong** 
@@ -59,7 +48,7 @@ _03-11 December_
 _03-11 December_
 
 
-# Достопримечательности/Вьюпоинты/Места стоящие посещения {#5e88d5b163bd4f8ebbb70209885e5350}
+## Достопримечательности/Вьюпоинты/Места стоящие посещения {#5e88d5b163bd4f8ebbb70209885e5350}
 
 
 **MAIIAM Contemporary Art Museum** [https://goo.gl/maps/EmwqhHKiptStCHdd6](https://goo.gl/maps/EmwqhHKiptStCHdd6)
@@ -74,13 +63,13 @@ _03-11 December_
 **The North Gate** [https://goo.gl/maps/1UeyCUPsPGg3XJXD8](https://goo.gl/maps/1UeyCUPsPGg3XJXD8)
 
 
-# Бары-клубы {#083e2cd45c9e40d7a86b08a6f3732add}
+## Бары-клубы {#083e2cd45c9e40d7a86b08a6f3732add}
 
 
 [Bars & Clubs]
 
 
-# Коворкинги {#3f0037c02d634f128e5a12c21392b30b}
+## Коворкинги {#3f0037c02d634f128e5a12c21392b30b}
 
 
 **Kalm Village Chiangmai**
@@ -137,7 +126,7 @@ _03-11 December_
 [https://goo.gl/maps/1HzFnrozeoRJuXoS6](https://goo.gl/maps/1HzFnrozeoRJuXoS6)
 
 
-# Аренда жилья {#fbb98283a9e54eacb30c39c54f2749a7}
+## Аренда жилья {#fbb98283a9e54eacb30c39c54f2749a7}
 
 
 [https://66property.com](https://66property.com/property/condos-for-rent-chiang-mai/)
