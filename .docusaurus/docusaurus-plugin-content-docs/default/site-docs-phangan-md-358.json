@@ -1,21 +1,21 @@
 {
   "unversionedId": "Phangan",
   "id": "Phangan",
-  "title": "Phangan",
-  "description": "Аренда личного транспорта",
+  "title": "Ko Pha-ngan",
+  "description": "Аренда транспорта",
   "source": "@site/docs/Phangan.md",
   "sourceDirName": ".",
-  "slug": "/d712c9ef-312c-464a-bd82-3e598d6eb9cc",
-  "permalink": "/docs/d712c9ef-312c-464a-bd82-3e598d6eb9cc",
+  "slug": "/ko-phangan",
+  "permalink": "/docs/ko-phangan",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Phangan.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
-    "title": "Phangan",
+    "title": "Ko Pha-ngan",
     "sidebar_position": 3,
-    "slug": "/d712c9ef-312c-464a-bd82-3e598d6eb9cc"
+    "slug": "/ko-phangan"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

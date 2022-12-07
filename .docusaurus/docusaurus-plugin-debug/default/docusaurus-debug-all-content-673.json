@@ -15,15 +15,15 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/duckenclaw/Documents/work/thailandguide.github.io/sidebars.js",
-          "contentPath": "/Users/duckenclaw/Documents/work/thailandguide.github.io/docs",
-          "contentPathLocalized": "/Users/duckenclaw/Documents/work/thailandguide.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/maximpetrenko/forty_two/projects/thailandguide.github.io/sidebars.js",
+          "contentPath": "/Users/maximpetrenko/forty_two/projects/thailandguide.github.io/docs",
+          "contentPathLocalized": "/Users/maximpetrenko/forty_two/projects/thailandguide.github.io/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "Bangkok",
               "id": "Bangkok",
               "title": "Bangkok",
-              "description": "Аренда личного транспорта",
+              "description": "Аренда транспорта",
               "source": "@site/docs/Bangkok.md",
               "sourceDirName": ".",
               "slug": "/4c1f0565-e280-4df2-9714-f023aefa5077",
@@ -52,7 +52,7 @@
               "unversionedId": "Chiangmai",
               "id": "Chiangmai",
               "title": "Chiangmai",
-              "description": "Аренда личного транспорта",
+              "description": "Аренда транспорта",
               "source": "@site/docs/Chiangmai.md",
               "sourceDirName": ".",
               "slug": "/607af55b-4cf0-471e-8ad7-8e8e9c491722",
@@ -106,7 +106,7 @@
               "unversionedId": "Pattaya",
               "id": "Pattaya",
               "title": "Pattaya",
-              "description": "Аренда личного транспорта",
+              "description": "Аренда транспорта",
               "source": "@site/docs/Pattaya.md",
               "sourceDirName": ".",
               "slug": "/df8acbcc-b10f-4fca-9ee1-482327ecbec8",
@@ -134,21 +134,21 @@
             {
               "unversionedId": "Phangan",
               "id": "Phangan",
-              "title": "Phangan",
-              "description": "Аренда личного транспорта",
+              "title": "Ko Pha-ngan",
+              "description": "Аренда транспорта",
               "source": "@site/docs/Phangan.md",
               "sourceDirName": ".",
-              "slug": "/d712c9ef-312c-464a-bd82-3e598d6eb9cc",
-              "permalink": "/docs/d712c9ef-312c-464a-bd82-3e598d6eb9cc",
+              "slug": "/ko-phangan",
+              "permalink": "/docs/ko-phangan",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Phangan.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
-                "title": "Phangan",
+                "title": "Ko Pha-ngan",
                 "sidebar_position": 3,
-                "slug": "/d712c9ef-312c-464a-bd82-3e598d6eb9cc"
+                "slug": "/ko-phangan"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -164,7 +164,7 @@
               "unversionedId": "Phuket",
               "id": "Phuket",
               "title": "Phuket",
-              "description": "Аренда личного транспорта",
+              "description": "Аренда транспорта",
               "source": "@site/docs/Phuket.md",
               "sourceDirName": ".",
               "slug": "/99d66b4e-f984-458a-b3b5-53a0bc82a818",
@@ -181,8 +181,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Phangan",
-                "permalink": "/docs/d712c9ef-312c-464a-bd82-3e598d6eb9cc"
+                "title": "Ko Pha-ngan",
+                "permalink": "/docs/ko-phangan"
               },
               "next": {
                 "title": "Pattaya",
@@ -193,7 +193,7 @@
               "unversionedId": "Samui",
               "id": "Samui",
               "title": "Samui",
-              "description": "Аренда личного транспорта",
+              "description": "Аренда транспорта",
               "source": "@site/docs/Samui.md",
               "sourceDirName": ".",
               "slug": "/3551953d-0dc1-468f-a571-fbbb14462fff",
@@ -214,8 +214,8 @@
                 "permalink": "/docs/607af55b-4cf0-471e-8ad7-8e8e9c491722"
               },
               "next": {
-                "title": "Phangan",
-                "permalink": "/docs/d712c9ef-312c-464a-bd82-3e598d6eb9cc"
+                "title": "Ko Pha-ngan",
+                "permalink": "/docs/ko-phangan"
               }
             },
             {

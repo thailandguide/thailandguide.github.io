@@ -33,8 +33,8 @@
           },
           {
             "type": "link",
-            "label": "Phangan",
-            "href": "/docs/d712c9ef-312c-464a-bd82-3e598d6eb9cc",
+            "label": "Ko Pha-ngan",
+            "href": "/docs/ko-phangan",
             "docId": "Phangan"
           },
           {
@@ -71,13 +71,13 @@
     "Bangkok": {
       "id": "Bangkok",
       "title": "Bangkok",
-      "description": "Аренда личного транспорта",
+      "description": "Аренда транспорта",
       "sidebar": "tutorialSidebar"
     },
     "Chiangmai": {
       "id": "Chiangmai",
       "title": "Chiangmai",
-      "description": "Аренда личного транспорта",
+      "description": "Аренда транспорта",
       "sidebar": "tutorialSidebar"
     },
     "General-Thailand-Guide": {
@@ -89,25 +89,25 @@
     "Pattaya": {
       "id": "Pattaya",
       "title": "Pattaya",
-      "description": "Аренда личного транспорта",
+      "description": "Аренда транспорта",
       "sidebar": "tutorialSidebar"
     },
     "Phangan": {
       "id": "Phangan",
-      "title": "Phangan",
-      "description": "Аренда личного транспорта",
+      "title": "Ko Pha-ngan",
+      "description": "Аренда транспорта",
       "sidebar": "tutorialSidebar"
     },
     "Phuket": {
       "id": "Phuket",
       "title": "Phuket",
-      "description": "Аренда личного транспорта",
+      "description": "Аренда транспорта",
       "sidebar": "tutorialSidebar"
     },
     "Samui": {
       "id": "Samui",
       "title": "Samui",
-      "description": "Аренда личного транспорта",
+      "description": "Аренда транспорта",
       "sidebar": "tutorialSidebar"
     },
     "Экстренная-помощь": {

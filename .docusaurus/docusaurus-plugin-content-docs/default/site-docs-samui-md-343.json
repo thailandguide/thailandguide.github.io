@@ -2,7 +2,7 @@
   "unversionedId": "Samui",
   "id": "Samui",
   "title": "Samui",
-  "description": "Аренда личного транспорта",
+  "description": "Аренда транспорта",
   "source": "@site/docs/Samui.md",
   "sourceDirName": ".",
   "slug": "/3551953d-0dc1-468f-a571-fbbb14462fff",
@@ -23,7 +23,7 @@
     "permalink": "/docs/607af55b-4cf0-471e-8ad7-8e8e9c491722"
   },
   "next": {
-    "title": "Phangan",
-    "permalink": "/docs/d712c9ef-312c-464a-bd82-3e598d6eb9cc"
+    "title": "Ko Pha-ngan",
+    "permalink": "/docs/ko-phangan"
   }
 }

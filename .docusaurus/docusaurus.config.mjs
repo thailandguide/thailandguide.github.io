@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/duckenclaw/Documents/work/thailandguide.github.io/sidebars.js",
+          "sidebarPath": "/Users/maximpetrenko/forty_two/projects/thailandguide.github.io/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/duckenclaw/Documents/work/thailandguide.github.io/src/css/custom.css"
+          "customCss": "/Users/maximpetrenko/forty_two/projects/thailandguide.github.io/src/css/custom.css"
         }
       }
     ]

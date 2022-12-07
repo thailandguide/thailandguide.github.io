@@ -2,7 +2,7 @@
   "unversionedId": "Phuket",
   "id": "Phuket",
   "title": "Phuket",
-  "description": "Аренда личного транспорта",
+  "description": "Аренда транспорта",
   "source": "@site/docs/Phuket.md",
   "sourceDirName": ".",
   "slug": "/99d66b4e-f984-458a-b3b5-53a0bc82a818",
@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Phangan",
-    "permalink": "/docs/d712c9ef-312c-464a-bd82-3e598d6eb9cc"
+    "title": "Ko Pha-ngan",
+    "permalink": "/docs/ko-phangan"
   },
   "next": {
     "title": "Pattaya",
