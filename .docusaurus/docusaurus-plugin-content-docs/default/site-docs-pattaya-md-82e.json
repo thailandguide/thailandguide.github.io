@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Pattaya",
+  "id": "Pattaya",
+  "title": "Pattaya",
+  "description": "Overview",
+  "source": "@site/docs/Pattaya.md",
+  "sourceDirName": ".",
+  "slug": "/df8acbcc-b10f-4fca-9ee1-482327ecbec8",
+  "permalink": "/docs/df8acbcc-b10f-4fca-9ee1-482327ecbec8",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Pattaya.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Pattaya",
+    "sidebar_position": 5,
+    "slug": "/df8acbcc-b10f-4fca-9ee1-482327ecbec8"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Phuket",
+    "permalink": "/docs/99d66b4e-f984-458a-b3b5-53a0bc82a818"
+  },
+  "next": {
+    "title": "Bangkok",
+    "permalink": "/docs/4c1f0565-e280-4df2-9714-f023aefa5077"
+  }
+}

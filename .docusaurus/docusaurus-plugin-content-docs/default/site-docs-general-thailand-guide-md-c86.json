@@ -1,0 +1,25 @@
+{
+  "unversionedId": "General-Thailand-Guide",
+  "id": "General-Thailand-Guide",
+  "title": "General Thailand Guide",
+  "description": "Overview",
+  "source": "@site/docs/General-Thailand-Guide.md",
+  "sourceDirName": ".",
+  "slug": "/4045a3d6-d516-4812-905b-e4bcb76e0e05",
+  "permalink": "/docs/4045a3d6-d516-4812-905b-e4bcb76e0e05",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/General-Thailand-Guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "General Thailand Guide",
+    "sidebar_position": 0,
+    "slug": "/4045a3d6-d516-4812-905b-e4bcb76e0e05"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Chiangmai",
+    "permalink": "/docs/607af55b-4cf0-471e-8ad7-8e8e9c491722"
+  }
+}
