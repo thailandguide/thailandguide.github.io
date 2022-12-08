@@ -23,6 +23,8 @@ slug: /3551953d-0dc1-468f-a571-fbbb14462fff
 
 ## События(Events) {#101c57779e0e41349c367c8e6c82b6cd}
 
+[Календарь событий Самуи](https://timesamui.com)
+
 
 ## Стоит посмотреть {#good-to-see}
 
