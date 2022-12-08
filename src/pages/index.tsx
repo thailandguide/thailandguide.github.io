@@ -14,12 +14,12 @@ function HomepageHeader() {
       <div className={clsx("container", styles.container)}>
         <div className={styles.heroText}>
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">Lorem Ipsum is simply dummy text of the printing and typesetting industryr.</p>
+          <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
               to="/docs/4045a3d6-d516-4812-905b-e4bcb76e0e05">
-              Start Guide
+              Начать путешествие
             </Link>
           </div>
         </div>

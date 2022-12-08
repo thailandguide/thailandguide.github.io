@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Thailand Guide',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'С нами Таиланд откроется в новом свете!',
   url: 'https://thailandguide.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
