@@ -6,7 +6,7 @@ slug: /607af55b-4cf0-471e-8ad7-8e8e9c491722
 
 
 
-## Аренда личного транспорта {#f376418816484c04b2229bb13f1577d6}
+## Аренда транспорта {#transport}
 
 
 D2 Bike Nimman Motorcycle [https://goo.gl/maps/izQhkY3xaHBv8zT28](https://goo.gl/maps/izQhkY3xaHBv8zT28)
@@ -50,7 +50,7 @@ _03-11 December_
 _03-11 December_
 
 
-## Достопримечательности/Вьюпоинты/Места стоящие посещения {#5e88d5b163bd4f8ebbb70209885e5350}
+## Стоит посмотреть {#good-to-see}
 
 
 **MAIIAM Contemporary Art Museum** [https://goo.gl/maps/EmwqhHKiptStCHdd6](https://goo.gl/maps/EmwqhHKiptStCHdd6)

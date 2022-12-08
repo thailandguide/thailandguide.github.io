@@ -1,2 +1,8 @@
 node_modules
 .docusaurus
+
+build
+
+.docusaurus
+
+.DS_Store
