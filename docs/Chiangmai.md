@@ -9,7 +9,9 @@ slug: /607af55b-4cf0-471e-8ad7-8e8e9c491722
 ## Аренда личного транспорта {#f376418816484c04b2229bb13f1577d6}
 
 
-[Transport Rentals]
+D2 Bike Nimman Motorcycle [https://goo.gl/maps/izQhkY3xaHBv8zT28](https://goo.gl/maps/izQhkY3xaHBv8zT28)
+Buddy's Motorcycle Rental & Internet Café [https://goo.gl/maps/mK6GanCEF1MwF5YQ9](https://goo.gl/maps/mK6GanCEF1MwF5YQ9)
+Mango Scooter Rental [https://goo.gl/maps/i9BQro4WUAkL5dpXA](https://goo.gl/maps/i9BQro4WUAkL5dpXA)
 
 
 ## Еда-Рынки {#b779033880f9450bbe500a845cea0e34}
@@ -65,9 +67,24 @@ _03-11 December_
 
 ## Бары-клубы {#083e2cd45c9e40d7a86b08a6f3732add}
 
+**The North Gate** 
 
-[Bars & Clubs]
+Это андеграунд место, очень гранж — ободранные стены,грубые лавки, но прекрасная музыка и отличная атмосфера. Здесь играют не заготовленную музыку, всё что вы слышите всегда сымпровизированно и придумано на ходу.
 
+[https://goo.gl/maps/1UeyCUPsPGg3XJXD8](https://goo.gl/maps/1UeyCUPsPGg3XJXD8)
+
+**Zoe in Yellow**
+
+Очень туристическое место. Здесь играют различные ремиксы поп музыки. Есть еда, разливные напитки и коктейли. 
+
+[https://goo.gl/maps/upEq8QHvzQU7VmsY7](https://goo.gl/maps/upEq8QHvzQU7VmsY7)
+
+**Red**
+
+
+Андерграундный музыкальный бар в Чиангмае. В нём играет House, Techno и другие жанры EDM, иногда есть тематические вечера с Hip-Hop и Drum & Bass музыкой.
+
+[https://goo.gl/maps/GBr2X9P8tnGWw5qh9](https://goo.gl/maps/GBr2X9P8tnGWw5qh9)
 
 ## Коворкинги {#3f0037c02d634f128e5a12c21392b30b}
 
