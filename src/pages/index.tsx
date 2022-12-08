@@ -14,7 +14,7 @@ function HomepageHeader() {
       <div className={clsx("container", styles.container)}>
         <div className={styles.heroText}>
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+          <p className="hero__subtitle">Lorem Ipsum is simply dummy text of the printing and typesetting industryr.</p>
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
