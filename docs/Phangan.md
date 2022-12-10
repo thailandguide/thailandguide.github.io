@@ -523,7 +523,7 @@ _________________
 
 - **Pimmada Hut**
 
-[Google Maps] (https://goo.gl/maps/1YLMCYEJ55sWZwxbA)
+[Google Maps](https://goo.gl/maps/1YLMCYEJ55sWZwxbA)
 
 Вообще для виндсерфинга на Пангане маловато ветра. Pimmada Hut — единственная точка, где учат. Стоимость 500 бат в час.
 
