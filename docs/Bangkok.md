@@ -1,6 +1,6 @@
 ---
 title: Bangkok
-sidebar_position: 6
+sidebar_position: 1
 slug: /4c1f0565-e280-4df2-9714-f023aefa5077
 ---
 
@@ -24,12 +24,7 @@ slug: /4c1f0565-e280-4df2-9714-f023aefa5077
 ## События {#events}
 
 
-## Стоит посмотреть {#good-to-see}
-
-
 ## Бары и клубы {#bars-and-clubs}
-
-
 
 
 ## Коворкинги {#coworkings}

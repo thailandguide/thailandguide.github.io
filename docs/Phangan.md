@@ -1,6 +1,6 @@
 ---
 title: Ko Pha-ngan
-sidebar_position: 3
+sidebar_position: 5
 slug: /ko-phangan
 ---
 
@@ -109,10 +109,6 @@ _________________
 
 ## События {#events}
 
-
-_________________
-
-## Стоит посмотреть {#good-to-see}
 
 
 _________________

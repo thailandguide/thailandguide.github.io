@@ -4,13 +4,13 @@ sidebar_position: 0
 slug: /4045a3d6-d516-4812-905b-e4bcb76e0e05
 ---
 
-## Перелёт {#2b6dbba2420f4e7db3faa79192f9514f}
+## Перелёт {#flights}
 
 
 [Flights (1)]
 
 
-## Виза {#a642d428c1474edbbddce20d6a66b26f}
+## Виза {#visa}
 
 
 **Туристическая виза**
@@ -50,7 +50,7 @@ slug: /4045a3d6-d516-4812-905b-e4bcb76e0e05
 Без визы можно въехать на 45 дней. Потом можно продлевать пребывание на 7 дней. Время пребывания может быть продлено еще на 45 дней в immigration office, который можно найти на любом популярном курорте.
 
 
-## Сим-карты {#983ffaccd23749218667ccecbaf439f0}
+## Сим-карты {#sim-cards}
 
 
 # [Dtac](https://www.dtac.co.th/en)
@@ -77,7 +77,7 @@ slug: /4045a3d6-d516-4812-905b-e4bcb76e0e05
 [Больше…](https://life-trip.ru/mobilnyj-internet-v-tajlande-i-svyaz/)
 
 
-## Приложения {#e59dcdceab4946a089864ba72f5116bf}
+## Приложения {#apps}
 
 
 **Такси**
@@ -110,7 +110,7 @@ Line [iOS](https://apps.apple.com/us/app/line/id443904275) **|** [Android](https
 Lazada [iOS](https://apps.apple.com/th/app/lazada-12-12/id785385147?l=th) **|** [Android](https://play.google.com/store/apps/details?id=com.lazada.android&hl=en&gl=US)
 
 
-## Транспорт между островами/паромы/автобусы {#0b665fb1e0f246e3b55361220c0cd08c}
+## Транспорт между островами/паромы/автобусы {#transport}
 
 
 [https://12go.co](https://12go.co/en)
@@ -128,7 +128,7 @@ Lazada [iOS](https://apps.apple.com/th/app/lazada-12-12/id785385147?l=th) **|** 
 [https://www.haadrinqueen.com](https://www.haadrinqueen.com/)
 
 
-## Банки {#d7e943b6199f40ce9c580b138eb52135}
+## Банки {#banks}
 
 **Bangkok Bank** 
 Крупнейший коммерческий банк в стране. Банк имеет более 700 филиалов. В банкоматах установлен самый высокий лимит снятия денежной суммы – 25000 бат. Все отделения, обменники и банкоматы оформлены синим цветом в качестве отличительного.
@@ -139,8 +139,10 @@ Lazada [iOS](https://apps.apple.com/th/app/lazada-12-12/id785385147?l=th) **|** 
 **Krungsri Bank**
 Один из крупнейших банков Тайланда. Около 600 отделений по стране.
 
-## Страховки {#e59389e63a474101bab6a44aa12b496e}
+## Страховки {#insurance}
 
 
-## Обмен валюты {#2e4042e14cfa401e96c7aecc67a6ad2b}
 
+## Обмен валюты {#exchange}
+
+[https://t.me/durov_russia](https://t.me/durov_russia) - Поменяем как сделаем обменник, не забудьте ПОЖАЛУЙСТА
