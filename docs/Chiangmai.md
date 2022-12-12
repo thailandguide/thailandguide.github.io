@@ -1,7 +1,7 @@
 ---
 title: Chiangmai
-sidebar_position: 1
-slug: /607af55b-4cf0-471e-8ad7-8e8e9c491722
+sidebar_position: 2
+slug: /chiangmai
 ---
 
 
@@ -9,37 +9,45 @@ slug: /607af55b-4cf0-471e-8ad7-8e8e9c491722
 ## Аренда транспорта {#transport}
 
 
-D2 Bike Nimman Motorcycle [https://goo.gl/maps/izQhkY3xaHBv8zT28](https://goo.gl/maps/izQhkY3xaHBv8zT28)
+- [D2 Bike Nimman Motorcycle](https://goo.gl/maps/izQhkY3xaHBv8zT28)
 
 
-Buddy's Motorcycle Rental & Internet Café [https://goo.gl/maps/mK6GanCEF1MwF5YQ9](https://goo.gl/maps/mK6GanCEF1MwF5YQ9)
+- [Buddy's Motorcycle Rental & Internet Café](https://goo.gl/maps/mK6GanCEF1MwF5YQ9)
 
 
-Mango Scooter Rental [https://goo.gl/maps/i9BQro4WUAkL5dpXA](https://goo.gl/maps/i9BQro4WUAkL5dpXA)
+- [Mango Scooter Rental](https://goo.gl/maps/i9BQro4WUAkL5dpXA)
 
 
-## Еда-Рынки {#b779033880f9450bbe500a845cea0e34}
+## Где поесть {#where-to-eat}
 
 
-**Кафе и Рестораны**
+### Кафе и Рестораны
 
 
-WAKO BAKE [https://goo.gl/maps/eHu8Etm7uA49AhDC9](https://goo.gl/maps/eHu8Etm7uA49AhDC9)
+- [WAKO BAKE](https://goo.gl/maps/eHu8Etm7uA49AhDC9)
+
+- [Jacky Show Restaurant](https://goo.gl/maps/WtLG7dPVosGWt2Fm9)
+
+- [B Samcook Home 16](https://goo.gl/maps/RgLDpYexWez5LJga8)
+
+- [Pizza My Heart At Nimman](https://goo.gl/maps/pK1daSTvxaxDzuPEA)
+
+- []
 
 
-**Рынки**
+### Рынки
 
 
-Sunday Night Market [https://goo.gl/maps/eL5hJDBNDshNsCHXA](https://goo.gl/maps/eL5hJDBNDshNsCHXA)
+- [Sunday Night Market](https://goo.gl/maps/eL5hJDBNDshNsCHXA)
 
 
-Chiang Mai Gate Market [https://goo.gl/maps/MiJVRY4qBxQGeaQR8](https://goo.gl/maps/MiJVRY4qBxQGeaQR8)
+- [Chiang Mai Gate Market](https://goo.gl/maps/MiJVRY4qBxQGeaQR8)
 
 
-Chiang Mai University Night Market [https://goo.gl/maps/DSdJMrmrZcqG4nKaA](https://goo.gl/maps/DSdJMrmrZcqG4nKaA)
+- [Chiang Mai University Night Market](https://goo.gl/maps/DSdJMrmrZcqG4nKaA)
 
 
-## События(Events) {#0491fd70b5104932b7647e5f5274ef75}
+## События {#events}
 
 
 **Loy Krathong** 
@@ -54,100 +62,52 @@ _03-11 December_
 _03-11 December_
 
 
-## Стоит посмотреть {#good-to-see}
+## Бары и клубы {#bars-and-clubs}
 
-
-**MAIIAM Contemporary Art Museum** [https://goo.gl/maps/EmwqhHKiptStCHdd6](https://goo.gl/maps/EmwqhHKiptStCHdd6)
-
-
-**Khun Chang Khian** [https://goo.gl/maps/Yqtf42JZEvKBaMZW6](https://goo.gl/maps/Yqtf42JZEvKBaMZW6)
-
-
-**Huay Tueng Thao Reservoir** [https://goo.gl/maps/aPsrAy9GWeqT4SwK9](https://goo.gl/maps/aPsrAy9GWeqT4SwK9)
-
-
-**The North Gate** [https://goo.gl/maps/1UeyCUPsPGg3XJXD8](https://goo.gl/maps/1UeyCUPsPGg3XJXD8)
-
-
-## Бары-клубы {#083e2cd45c9e40d7a86b08a6f3732add}
-
-**The North Gate** 
-
+- [The North Gate](https://goo.gl/maps/1UeyCUPsPGg3XJXD8)
 Это андеграунд место, очень гранж — ободранные стены,грубые лавки, но прекрасная музыка и отличная атмосфера. Здесь играют не заготовленную музыку, всё что вы слышите всегда сымпровизированно и придумано на ходу.
 
-[https://goo.gl/maps/1UeyCUPsPGg3XJXD8](https://goo.gl/maps/1UeyCUPsPGg3XJXD8)
 
-**Zoe in Yellow**
-
+- [Zoe in Yellow](https://goo.gl/maps/upEq8QHvzQU7VmsY7)
 Очень туристическое место. Здесь играют различные ремиксы поп музыки. Есть еда, разливные напитки и коктейли. 
 
-[https://goo.gl/maps/upEq8QHvzQU7VmsY7](https://goo.gl/maps/upEq8QHvzQU7VmsY7)
 
-**Red**
-
-
+- [Red](https://goo.gl/maps/GBr2X9P8tnGWw5qh9)
 Андерграундный музыкальный бар в Чиангмае. В нём играет House, Techno и другие жанры EDM, иногда есть тематические вечера с Hip-Hop и Drum & Bass музыкой.
 
-[https://goo.gl/maps/GBr2X9P8tnGWw5qh9](https://goo.gl/maps/GBr2X9P8tnGWw5qh9)
 
-## Коворкинги {#3f0037c02d634f128e5a12c21392b30b}
-
-
-**Kalm Village Chiangmai**
+- [Renegade Craft Beer & Ciders](https://goo.gl/maps/wmWboXS78jqvAqWK6)
+Отличный бар, с хорошим крафтовым пивом и сидром, чего вообще в Тайланде в дефиците. Не ожидайте дешевых цен на напитки, но ваша покупка будет того стоить.
 
 
+## Коворкинги {#coworkings}
+
+
+- [Kalm Village Chiangmai](https://goo.gl/maps/AAJzxgwzddGaUbRz5)
 Бесплатно и очень тихо, есть даже места чтобы полежать, снизу этого помещения еще недорогой кафе с кофе и выпечкой.
 
 
-[https://goo.gl/maps/AAJzxgwzddGaUbRz5](https://goo.gl/maps/AAJzxgwzddGaUbRz5)
+- [The Barn Eatery And Design](https://goo.gl/maps/mxTHPAPvHbGvbHey6)
+Кафе со вкусной и недорогой едой и кофе, тихая и уютная. Сюда приезжает очень много иностранцев, для того чтобы работать
 
 
-**The Barn Eatery And Design**
-
-
-Это вообще кафешка, но тихая и уютная, еще тут не дорого
-
-
-[https://goo.gl/maps/mxTHPAPvHbGvbHey6](https://goo.gl/maps/mxTHPAPvHbGvbHey6)
-
-
-**CAMP Creative and meeting place**
-
-
+- [CAMP Creative and meeting place](https://goo.gl/maps/Hf3jUKfnG68tcyff7)
 Находится в торговом центре Maya. Есть еда и напитки. Wi-Fi выдают только при покупке еды, в остальном он абсолютно бесплатный.
 
 
-[https://goo.gl/maps/Hf3jUKfnG68tcyff7](https://goo.gl/maps/Hf3jUKfnG68tcyff7)
-
-
-**Yellow Coworking Space (Co-working)**
-
-
+- [Yellow Coworking Space (Co-working)](https://goo.gl/maps/r8MS9T47f4TgZbNy6)
 Этот коворк платный, но здесь больше удобств. Так же есть возможность снять отдельное помещение на долгий срок, для того чтобы оборудовать его под вас.
 
 
-[https://goo.gl/maps/r8MS9T47f4TgZbNy6](https://goo.gl/maps/r8MS9T47f4TgZbNy6)
-
-
-**ITSC Corner Headquarter**
-
-
+- [ITSC Corner Headquarter](https://goo.gl/maps/E2VBnUjyuKU7QEU9A)
 Коворк пространство при Чиангмайском университете. К вечеру сюда приходит очень большой количество студентом, но для раннего утра один из лучших вариантов с наличием удобных кресел.
 
 
-[https://goo.gl/maps/E2VBnUjyuKU7QEU9A](https://goo.gl/maps/E2VBnUjyuKU7QEU9A)
-
-
-**AIS Playground @CMU**
-
-
+- [AIS Playground @CMU](https://goo.gl/maps/1HzFnrozeoRJuXoS6)
 Ещё одно коворк пространство при университете, здесь не так много людей и здесь бесплатно.
 
 
-[https://goo.gl/maps/1HzFnrozeoRJuXoS6](https://goo.gl/maps/1HzFnrozeoRJuXoS6)
-
-
-## Аренда жилья {#fbb98283a9e54eacb30c39c54f2749a7}
+## Аренда жилья {#housing}
 
 
 [https://66property.com](https://66property.com/property/condos-for-rent-chiang-mai/)
@@ -157,4 +117,3 @@ _03-11 December_
 
 
 [https://www.thailand-property.com](https://www.thailand-property.com/)
-
