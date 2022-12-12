@@ -12,7 +12,7 @@ slug: /3551953d-0dc1-468f-a571-fbbb14462fff
 [Transport Rentals]
 
 
-## Еда-Рынки {#b35570ddf37245bc9d04f939bf7c1c53}
+## Где поесть {#where-to-eat}
 
 
 **Кафе и Рестораны**
@@ -21,7 +21,7 @@ slug: /3551953d-0dc1-468f-a571-fbbb14462fff
 **Рынки**
 
 
-## События(Events) {#101c57779e0e41349c367c8e6c82b6cd}
+## События {#events}
 
 [Календарь событий Самуи](https://timesamui.com)
 
@@ -29,14 +29,14 @@ slug: /3551953d-0dc1-468f-a571-fbbb14462fff
 ## Стоит посмотреть {#good-to-see}
 
 
-## Бары-клубы {#c47d1cd58d7e45e191319d481329901d}
+## Бары и клубы {#bars-and-clubs}
 
 
 [Bars & Clubs]
 
 
-## Коворкинги {#7f86bc2def3c4a00b47bef4510027b47}
+## Коворкинги {#coworkings}
 
 
-## Аренда жилья {#4dce14e781e44be58574f3f1c6b4cd2f}
+## Аренда жилья {#housing}
 

@@ -18,16 +18,16 @@ Buddy's Motorcycle Rental & Internet Café [https://goo.gl/maps/mK6GanCEF1MwF5YQ
 Mango Scooter Rental [https://goo.gl/maps/i9BQro4WUAkL5dpXA](https://goo.gl/maps/i9BQro4WUAkL5dpXA)
 
 
-## Еда-Рынки {#b779033880f9450bbe500a845cea0e34}
+## Где поесть {#where-to-eat}
 
 
-**Кафе и Рестораны**
+### Кафе и Рестораны
 
 
 WAKO BAKE [https://goo.gl/maps/eHu8Etm7uA49AhDC9](https://goo.gl/maps/eHu8Etm7uA49AhDC9)
 
 
-**Рынки**
+### Рынки
 
 
 Sunday Night Market [https://goo.gl/maps/eL5hJDBNDshNsCHXA](https://goo.gl/maps/eL5hJDBNDshNsCHXA)
@@ -39,7 +39,7 @@ Chiang Mai Gate Market [https://goo.gl/maps/MiJVRY4qBxQGeaQR8](https://goo.gl/ma
 Chiang Mai University Night Market [https://goo.gl/maps/DSdJMrmrZcqG4nKaA](https://goo.gl/maps/DSdJMrmrZcqG4nKaA)
 
 
-## События(Events) {#0491fd70b5104932b7647e5f5274ef75}
+## События {#events}
 
 
 **Loy Krathong** 
@@ -69,7 +69,7 @@ _03-11 December_
 **The North Gate** [https://goo.gl/maps/1UeyCUPsPGg3XJXD8](https://goo.gl/maps/1UeyCUPsPGg3XJXD8)
 
 
-## Бары-клубы {#083e2cd45c9e40d7a86b08a6f3732add}
+## Бары и клубы {#bars-and-clubs}
 
 **The North Gate** 
 
@@ -90,7 +90,7 @@ _03-11 December_
 
 [https://goo.gl/maps/GBr2X9P8tnGWw5qh9](https://goo.gl/maps/GBr2X9P8tnGWw5qh9)
 
-## Коворкинги {#3f0037c02d634f128e5a12c21392b30b}
+## Коворкинги {#coworkings}
 
 
 **Kalm Village Chiangmai**
@@ -147,7 +147,7 @@ _03-11 December_
 [https://goo.gl/maps/1HzFnrozeoRJuXoS6](https://goo.gl/maps/1HzFnrozeoRJuXoS6)
 
 
-## Аренда жилья {#fbb98283a9e54eacb30c39c54f2749a7}
+## Аренда жилья {#housing}
 
 
 [https://66property.com](https://66property.com/property/condos-for-rent-chiang-mai/)
