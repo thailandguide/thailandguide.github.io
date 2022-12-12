@@ -1,7 +1,7 @@
 ---
 title: Bangkok
 sidebar_position: 1
-slug: /4c1f0565-e280-4df2-9714-f023aefa5077
+slug: /bangkok
 ---
 
 

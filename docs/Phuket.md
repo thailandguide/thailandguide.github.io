@@ -1,7 +1,7 @@
 ---
 title: Phuket
 sidebar_position: 4
-slug: /99d66b4e-f984-458a-b3b5-53a0bc82a818
+slug: /phuket
 ---
 
 

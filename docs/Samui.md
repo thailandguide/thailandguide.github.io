@@ -1,7 +1,7 @@
 ---
 title: Samui
 sidebar_position: 2
-slug: /3551953d-0dc1-468f-a571-fbbb14462fff
+slug: /samui
 ---
 
 

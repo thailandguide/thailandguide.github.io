@@ -1,7 +1,7 @@
 ---
 title: Chiangmai
 sidebar_position: 2
-slug: /607af55b-4cf0-471e-8ad7-8e8e9c491722
+slug: /chiangmai
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ko Pha-ngan
+title: Phangan
 sidebar_position: 5
-slug: /ko-phangan
+slug: /phangan
 ---
 
 _________________
