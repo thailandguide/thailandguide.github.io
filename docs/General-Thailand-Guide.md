@@ -1,34 +1,73 @@
 ---
 title: General Thailand Guide
 sidebar_position: 0
-slug: /4045a3d6-d516-4812-905b-e4bcb76e0e05
+slug: /general-guide
 ---
 
-## Перелёт {#2b6dbba2420f4e7db3faa79192f9514f}
+## Перелёт {#flights}
+
+[**Aviasales**](https://www.aviasales.ru/)
+Сайт для RU карт прекрасно работает в Тайланде, вы сможете найти почти любой перелёт, который вам нужен.
+
+[**Momondo**](https://www.momondo.com/)
+Сайт для не RU карт. Здесь больше выбор, но цены выходят почти те же самые что на Aviasales.
+
+[**Подписка на Air Asia**](https://www.airasia.com/aa/campaign/en/gb/superplus.html)
+Если вы собираетесь много путешествовать по Южно-Западной Азии, у Air Asia есть подписка специально для вас. С ней вы получаете бесплатные перелёты в 130 точек, скидки на поездки в Малайзии, Тайланде и Индонезии, скидки на ряд отелей принадлежащих Air Asia и специальную бонусную систему.
+
+## Виза {#visa}
 
 
-[Flights (1)]
+**Туристическая виза**
+Примерная стоимость: 40$
+Срок: 3 месяца
+Сложность: 1
+Делается на 2 мес с возможностью продлить еще на 1 мес. Можно сделать в любой стране, где есть посольство Таиланда.
+
+**Бордер-ран**
+Примерная стоимость: 100$
+Срок: 45 дней
+Сложность: 2
+Получение повторно штампа на границе на 45 дней. Для этого нужно выехать и снова въехать в королевство. Есть компании, которые помогают с организацией: забирают из отеля, вывозят и привозят обратно. Можно сделать и самостоятельно. Есть риск, что пограничник откажет вам во въезде
+
+[**БОРДЕР РАН В САТУН**](https://t.me/uslugi_phuket/74) 1 день. Стоимость: 2300 бат + 1300 бат на границе в зависимости от визовой истории.
+
+**Студенческая виза**
+Примерная стоимость: 1000$
+Срок: 3-12 месяцев
+Сложность: 4
+Виза оформляется для обучения в школе (языковой, дайвинг, муай тай или даже кулинарных курсах). Самый популярный способ остаться в Таиланде легально надолго
+
+Студенческую визу на длинный срок можно получить через языковые курсы.
+
+**Виза-ран**
+Примерная стоимость: 300$
+Срок: 3 месяца
+Сложность: 3
+Получение туристической визы в соседней стране (например, Лаос или Камбоджа). Необходимо поехать в посольство Таиланда другой страны и оформить там туристическую визу (TR). Довольно простой и легальный способ
+
+[**https://t.me/uslugi_phuket/73**](https://t.me/uslugi_phuket/73) - ВИЗА РАН НА ПЕНАНГ, МАЛАЙЗИЯ. 3 дня 2 ночи. Стоимость: 6500 бат + 1500 бат стоимость TR визы + 500 бат сборы в посольстве + 300 бат сборы на границе.
+
+**Штамп по прилёту**
+Примерная стоимость: 0$
+Срок: 45 месяца
+Сложность: 1
+Без визы можно въехать на 45 дней. Потом можно продлевать пребывание на 7 дней. Время пребывания может быть продлено еще на 45 дней в immigration office, который можно найти на любом популярном курорте.
 
 
-## Виза {#a642d428c1474edbbddce20d6a66b26f}
+## Сим-карты {#sim-cards}
 
 
-[Visa (1)]
+### [Dtac](https://www.dtac.co.th/en)
 
 
-## Сим-карты {#983ffaccd23749218667ccecbaf439f0}
+Самый дешевый вариант
 
 
-# [Dtac](https://www.dtac.co.th/en) {#ee9f6ed2b37d484b8a7419c7902657b4}
+### [AIS](https://www.ais.th/en/)
 
 
-Best Prices
-
-
-# [AIS](https://www.ais.th/en/) {#c165d3db69b540459d9cc22534b9927d}
-
-
-Best Internet
+Самый быстрый интернет
 
 
 **Где купить:** В магазинах 7-Eleven, Family mart (выбор будет ограничен и не смогут проконсультировать), на стойках в аэропорту , в салонах связи (есть во всех крупных ТЦ). Для оформления понадобится паспорт.
@@ -43,43 +82,40 @@ Best Internet
 [Больше…](https://life-trip.ru/mobilnyj-internet-v-tajlande-i-svyaz/)
 
 
-## Приложения {#e59dcdceab4946a089864ba72f5116bf}
+## Приложения {#apps}
 
 
 **Такси**
 
 
-Grab iOS **|** Android
+Grab [iOS](https://apps.apple.com/th/app/grab-superapp/id647268330) **|** [Android](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger&hl=en&gl=US&pli=1)
 
 
-Bolt iOS **|** Android
+Bolt [iOS](https://apps.apple.com/ee/app/bolt-fast-affordable-rides/id675033630) **|** [Android](https://play.google.com/store/apps/details?id=ee.mtakso.client&hl=en&gl=US)
 
 
 **Доставка еды**
 
 
-Foodpanda iOS **|** Android
+Foodpanda [iOS](https://apps.apple.com/th/app/foodpanda-food-delivery/id758103884) **|** [Android](https://play.google.com/store/apps/details?id=com.global.foodpanda.android&hl=en&gl=US)
 
 
-Grab iOS **|** Android
-
-
-Tuk iOS **|** Android
+Grab [iOS](https://apps.apple.com/th/app/grab-superapp/id647268330) **|** [Android](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger&hl=en&gl=US&pli=1)
 
 
 **Мессенджер** - почти все тайцы пользуются им
 
 
-Line iOS **|** Android
+Line [iOS](https://apps.apple.com/us/app/line/id443904275) **|** [Android](https://play.google.com/store/apps/details?id=jp.naver.line.android&hl=en&gl=US)
 
 
 **Аналог озона/алиэкспресса**
 
 
-Lazada iOS **|** Android
+Lazada [iOS](https://apps.apple.com/th/app/lazada-12-12/id785385147?l=th) **|** [Android](https://play.google.com/store/apps/details?id=com.lazada.android&hl=en&gl=US)
 
 
-## Транспорт между островами/паромы/автобусы {#0b665fb1e0f246e3b55361220c0cd08c}
+## Транспорт между островами/паромы/автобусы {#transport}
 
 
 [https://12go.co](https://12go.co/en)
@@ -97,14 +133,21 @@ Lazada iOS **|** Android
 [https://www.haadrinqueen.com](https://www.haadrinqueen.com/)
 
 
-## Банки {#d7e943b6199f40ce9c580b138eb52135}
+## Банки {#banks}
+
+**Bangkok Bank** 
+Крупнейший коммерческий банк в стране. Банк имеет более 700 филиалов. В банкоматах установлен самый высокий лимит снятия денежной суммы – 25000 бат. Все отделения, обменники и банкоматы оформлены синим цветом в качестве отличительного.
+
+**Kasikorn Bank**
+Наиболее быстрорастущий коммерческий банк Таиланда. В 2008 году получил награду ‘Thailand’s Strongest Bank’ журнала The Asian Banker Journal.
+
+**Krungsri Bank**
+Один из крупнейших банков Тайланда. Около 600 отделений по стране.
+
+## Страховки {#insurance}
 
 
-[Banks (1)]
 
+## Обмен валюты {#exchange}
 
-## Страховки {#e59389e63a474101bab6a44aa12b496e}
-
-
-## Обмен валюты {#2e4042e14cfa401e96c7aecc67a6ad2b}
-
+[https://t.me/durov_russia](https://t.me/durov_russia) - Поменяем как сделаем обменник, не забудьте ПОЖАЛУЙСТА
