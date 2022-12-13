@@ -1,6 +1,6 @@
 ---
 title: Экстренная помощь
-sidebar_position: 7
+sidebar_position: 0
 slug: /53c9e15a-847b-4b68-a05d-a5004f72e9fe
 ---
 
