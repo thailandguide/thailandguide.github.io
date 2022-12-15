@@ -1,6 +1,6 @@
 ---
 title: Панган Водные развлечения
-sidebar_position: 4
+sidebar_position: 5
 slug: /phangan/water
 ---
 

@@ -4,10 +4,9 @@ sidebar_position: 1
 slug: /bangkok
 ---
 
-
-1. [Бары и клубы](bangkok/bars)
-2. [Коворкинги](bangkok/coworkings)
-3. [Еда](bangkok/food)
-4. [Жилье](bangkok/housing)
-5. [Стоит посмотреть](bangkok/landmarks)
-6. [Транспорт](bangkok/transport)
+1. [Транспорт](bangkok/transport)
+2. [Еда](bangkok/food)
+3. [Бары и клубы](bangkok/bars)
+4. [Стоит посмотреть](bangkok/landmarks)
+5. [Коворкинги](bangkok/coworkings)
+6. [Жилье](bangkok/housing)
