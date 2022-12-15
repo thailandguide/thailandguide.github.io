@@ -35,9 +35,17 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -58,20 +66,46 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'General-Thailand-Guide',
+            docId: 'general-guide',
             position: 'left',
-            label: 'General Guide',
+            label: 'Общий гайд',
           },
-          // {
-          //   to: '/blog', 
-          //   label: 'Blog', 
-          //   position: 'left',
-          // },
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          {
+            type: 'doc',
+            docId: 'bangkok',
+            position: 'left',
+            label: 'Бангкок',
+          },
+          {
+            type: 'doc',
+            docId: 'phuket',
+            position: 'left',
+            label: 'Пхукет',
+          },
+          {
+            type: 'doc',
+            docId: 'samui',
+            position: 'left',
+            label: 'Самуи',
+          },
+          {
+            type: 'doc',
+            docId: 'phangan',
+            position: 'left',
+            label: 'Панган',
+          },
+          {
+            type: 'doc',
+            docId: 'chiangmai',
+            position: 'left',
+            label: 'Чиангмай',
+          },
+          {
+            type: 'doc',
+            docId: 'emergency-help',
+            position: 'left',
+            label: 'Экстренная помощь',
+          },
         ],
       },
       footer: {
@@ -94,19 +128,19 @@ const config = {
               },
             ],
           },
-          // {
-          //   title: 'More',
-          //   items: [
-          //     {
-          //       label: 'Blog',
-          //       to: '/blog',
-          //     },
-          //     {
-          //       label: 'GitHub',
-          //       href: 'https://github.com/facebook/docusaurus',
-          //     },
-          //   ],
-          // },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/facebook/docusaurus',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },

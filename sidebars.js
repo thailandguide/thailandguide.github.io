@@ -14,15 +14,15 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
-  tutorialSidebar: [
-    'General-Thailand-Guide',
-    {
-      type: 'category',
-      label: 'Cities',
-      items: ['Chiangmai', 'Samui', 'Phangan', 'Phuket', 'Pattaya', 'Bangkok'],
-    },
-    'Экстренная-помощь',
-  ],
+  // tutorialSidebar: [
+  //   'General-Thailand-Guide',
+  //   {
+  //     type: 'category',
+  //     label: 'Cities',
+  //     items: ['Chiangmai', 'Samui', 'Phangan', 'Phuket', 'Pattaya', 'Bangkok'],
+  //   },
+  //   'Экстренная-помощь',
+  // ],
 
   // But you can create a sidebar manually
   /*
