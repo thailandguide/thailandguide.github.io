@@ -1,7 +1,7 @@
 ---
-title: Бангкок Жилье
+title: Бангкок стоит посмотреть
 sidebar_position: 6
-slug: /housing
+slug: /bangkok/landmarks
 ---
 
 

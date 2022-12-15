@@ -1,5 +1,5 @@
 ---
 title: Самуи Бары
 sidebar_position: 3
-slug: /bars
+slug: /samui/bars
 ---

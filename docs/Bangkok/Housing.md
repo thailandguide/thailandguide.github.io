@@ -1,7 +1,7 @@
 ---
 title: Бангкок Жилье
 sidebar_position: 5
-slug: /housing
+slug: /bangkok/housing
 ---
 
 

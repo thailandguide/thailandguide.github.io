@@ -1,7 +1,7 @@
 ---
 title: Панган Достопримечательности
 sidebar_position: 3
-slug: /landmarks
+slug: /phangan/landmarks
 ---
 
 

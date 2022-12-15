@@ -1,7 +1,7 @@
 ---
 title: Чиангмай Коворки
 sidebar_position: 4
-slug: /coworkings
+slug: /chiangmai/coworkings
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Панган Аренда транспорта
 sidebar_position: 0
-slug: /transport
+slug: /phangan/transport
 ---
 
 ### Аренда байка

@@ -1,7 +1,7 @@
 ---
 title: Обмен валюты
 sidebar_position: 7
-slug: /exchange
+slug: /general-guide/exchange
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Пхукет Еда
 sidebar_position: 1
-slug: /food
+slug: /phuket/food
 ---
 
 ### Кафе и Рестораны

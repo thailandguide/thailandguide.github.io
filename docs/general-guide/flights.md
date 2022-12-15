@@ -1,7 +1,7 @@
 ---
 title: Перелёты
 sidebar_position: 0
-slug: /flights
+slug: /general-guide/flights
 ---
 
 

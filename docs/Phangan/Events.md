@@ -1,7 +1,7 @@
 ---
 title: Панган События
 sidebar_position: 2
-slug: /events
+slug: /phangan/events
 ---
 
 

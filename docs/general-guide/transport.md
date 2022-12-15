@@ -1,7 +1,7 @@
 ---
 title: Транспорт между островами
 sidebar_position: 4
-slug: /transport
+slug: /general-guide/transport
 ---
 
 

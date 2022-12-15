@@ -1,7 +1,7 @@
 ---
 title: Сим-карты
 sidebar_position: 2
-slug: /simcards
+slug: /general-guide/simcards
 ---
 
 

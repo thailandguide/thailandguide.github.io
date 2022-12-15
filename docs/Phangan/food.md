@@ -1,7 +1,7 @@
 ---
 title: Панган Еда
 sidebar_position: 1
-slug: /food
+slug: /phangan/food
 ---
 
 

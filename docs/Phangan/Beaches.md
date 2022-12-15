@@ -1,7 +1,7 @@
 ---
 title: Панган Пляжи
 sidebar_position: 2
-slug: /beaches
+slug: /phangan/beaches
 ---
 
 

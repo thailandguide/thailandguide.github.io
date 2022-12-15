@@ -1,7 +1,7 @@
 ---
 title: Банки
 sidebar_position: 5
-slug: /banks
+slug: /general-guide/banks
 ---
 
 

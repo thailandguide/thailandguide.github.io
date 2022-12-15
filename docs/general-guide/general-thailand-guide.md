@@ -1,7 +1,7 @@
 ---
 title: General Thailand Guide
 sidebar_position: 0
-slug: /general-guide
+slug: /general-guide/321836128732189
 ---
 
 ## Перелёт {#flights}

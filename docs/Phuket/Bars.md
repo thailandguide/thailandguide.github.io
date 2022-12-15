@@ -1,7 +1,7 @@
 ---
 title: Пхукет Бары
 sidebar_position: 3
-slug: /bars
+slug: /phuket/bars
 ---
 
 

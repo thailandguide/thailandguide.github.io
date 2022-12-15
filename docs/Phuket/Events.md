@@ -1,7 +1,7 @@
 ---
 title: Пхукет События
 sidebar_position: 2
-slug: /events
+slug: /phuket/events
 ---
 
 

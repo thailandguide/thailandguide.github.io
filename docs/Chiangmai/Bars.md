@@ -1,7 +1,7 @@
 ---
 title: Чиангмай Бары
 sidebar_position: 3
-slug: /bars
+slug: /chiangmai/bars
 ---
 
 

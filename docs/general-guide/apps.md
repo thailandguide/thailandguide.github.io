@@ -1,7 +1,7 @@
 ---
 title: Приложения
 sidebar_position: 3
-slug: /apps
+slug: /general-guide/apps
 ---
 
 

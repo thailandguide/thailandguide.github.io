@@ -1,7 +1,7 @@
 ---
 title: Панган Водные развлечения
 sidebar_position: 4
-slug: /water-activities
+slug: /phangan/water
 ---
 
 

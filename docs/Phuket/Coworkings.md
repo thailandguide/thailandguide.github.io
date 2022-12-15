@@ -1,7 +1,7 @@
 ---
 title: Пхукет Коворки
 sidebar_position: 4
-slug: /coworkings
+slug: /phuket/coworkings
 ---
 
 

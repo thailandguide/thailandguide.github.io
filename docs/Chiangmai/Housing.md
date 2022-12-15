@@ -1,7 +1,7 @@
 ---
 title: Чиангмай Жилье
 sidebar_position: 5
-slug: /housing
+slug: /chiangmai/housing
 ---
 
 [https://66property.com](https://66property.com/property/condos-for-rent-chiang-mai/)

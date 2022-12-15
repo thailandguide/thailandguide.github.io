@@ -1,7 +1,7 @@
 ---
 title: Пхукет Жилье
 sidebar_position: 5
-slug: /housing
+slug: /phuket/housing
 ---
 
 

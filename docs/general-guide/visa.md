@@ -1,7 +1,7 @@
 ---
 title: Визы
 sidebar_position: 1
-slug: /Visa
+slug: /general-guide/visa
 ---
 
 

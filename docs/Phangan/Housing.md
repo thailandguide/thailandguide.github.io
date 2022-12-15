@@ -1,5 +1,5 @@
 ---
 title: Панган Жилье
 sidebar_position: 7
-slug: /housing
+slug: /phangan/housing
 ---

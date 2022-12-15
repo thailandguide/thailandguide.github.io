@@ -1,7 +1,7 @@
 ---
 title: Чиангмай Еда
 sidebar_position: 1
-slug: /food
+slug: /chiangmai/food
 ---
 
 

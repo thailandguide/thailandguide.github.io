@@ -1,7 +1,7 @@
 ---
 title: Чиангмай События
 sidebar_position: 2
-slug: /events
+slug: /chiangmai/events
 ---
 
 
