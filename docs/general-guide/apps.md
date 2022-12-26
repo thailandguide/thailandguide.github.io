@@ -26,7 +26,7 @@ Foodpanda [iOS](https://apps.apple.com/th/app/foodpanda-food-delivery/id75810388
 Grab [iOS](https://apps.apple.com/th/app/grab-superapp/id647268330) **|** [Android](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger&hl=en&gl=US&pli=1)
 
 
-**Мессенджер** - почти все тайцы пользуются им
+**Мессенджер** - почти все тайцы пользуются им, так будет легче общаться с риелторами и сервисами.
 
 
 Line [iOS](https://apps.apple.com/us/app/line/id443904275) **|** [Android](https://play.google.com/store/apps/details?id=jp.naver.line.android&hl=en&gl=US)

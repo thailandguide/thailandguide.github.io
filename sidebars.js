@@ -16,6 +16,11 @@ const sidebars = {
   generalSidebar: [
     {
       type: 'doc',
+      id: 'general-guide/Overview',
+      label: 'Транспорт',
+    },
+    {
+      type: 'doc',
       id: 'general-guide/flights',
       label: 'Перелёты',
     },
@@ -58,6 +63,11 @@ const sidebars = {
   bangkokSidebar: [
     {
       type: 'doc',
+      id: 'Bangkok/Overview',
+      label: 'Транспорт',
+    },
+    {
+      type: 'doc',
       id: 'Bangkok/Transport',
       label: 'Транспорт',
     },
@@ -88,6 +98,11 @@ const sidebars = {
     },
   ],
   phuketSidebar: [
+    {
+      type: 'doc',
+      id: 'Phuket/Overview',
+      label: 'Транспорт',
+    },
     {
       type: 'doc',
       id: 'Phuket/Transport',
@@ -122,6 +137,11 @@ const sidebars = {
   samuiSidebar: [
     {
       type: 'doc',
+      id: 'Samui/Overview',
+      label: 'Транспорт',
+    },
+    {
+      type: 'doc',
       id: 'Samui/Transport',
       label: 'Транспорт',
     },
@@ -152,6 +172,11 @@ const sidebars = {
     },
   ],
   phanganSidebar: [
+    {
+      type: 'doc',
+      id: 'Phangan/Overview',
+      label: 'Транспорт',
+    },
     {
       type: 'doc',
       id: 'Phangan/Transport',
@@ -194,6 +219,11 @@ const sidebars = {
     },
   ],
   chiangmaiSidebar: [
+    {
+      type: 'doc',
+      id: 'Chiangmai/Overview',
+      label: 'Транспорт',
+    },
     {
       type: 'doc',
       id: 'Chiangmai/Transport',
