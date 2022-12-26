@@ -13,5 +13,5 @@ _November Full moon_
 _03-11 December_
 
 
-**Nimmanhaemin** _**Art & Design Promenade**_ 
+**Nimmanhaemin** **Art & Design Promenade**
 _03-11 December_

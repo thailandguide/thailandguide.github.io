@@ -7,7 +7,7 @@ slug: /phangan/water
 
 ### SUP-серфинг
 
-- **SUP-серфинг**, он же паддл бординг, это катание на доске с веслом. Сапы сдают в аренду на многих пляжах острова.
+**SUP-серфинг**, он же паддл бординг, это катание на доске с веслом. Сапы сдают в аренду на многих пляжах острова.
 
 [**Secret Place**](https://www.google.com/maps/place/Secret+Place+Restaurant+and+Hotel/@9.7543766,99.9694616,13.62z/data=!4m8!3m7!1s0x305501b8df6d1383:0x2a1ed087b5ed6525!5m2!4m1!1i2!8m2!3d9.7785209!4d99.966531)
 
@@ -15,10 +15,11 @@ slug: /phangan/water
 
 ### Каякинг
 
+[**Secret Place**](https://www.google.com/maps/place/Secret+Place+Restaurant+and+Hotel/@9.7543766,99.9694616,13.62z/data=!4m8!3m7!1s0x305501b8df6d1383:0x2a1ed087b5ed6525!5m2!4m1!1i2!8m2!3d9.7785209!4d99.966531)
+
 Прокат каяков есть почти на каждом пляже. Secret Place на Хаад Яо Стоимость в среднем 100 бат в час.
 Сплавать можно, например, на остров Ko Tae Nai напротив Тонгсалы, с обратной стороны острова есть пещеры и гроты.
 
-[**Secret Place**](https://www.google.com/maps/place/Secret+Place+Restaurant+and+Hotel/@9.7543766,99.9694616,13.62z/data=!4m8!3m7!1s0x305501b8df6d1383:0x2a1ed087b5ed6525!5m2!4m1!1i2!8m2!3d9.7785209!4d99.966531)
 
 ### Кайтсерфинг
 
@@ -26,19 +27,23 @@ slug: /phangan/water
 
 Также не забывайте смотреть [прогноз ветра](https://www.windguru.cz/121272) на windguru.
 
-- **Breeze Surf Club**
+[**Breeze Surf Club**](https://goo.gl/maps/QchCouN5KusVBPVn6)
 
-[Сайт](https://www.breezesurfclub.com/). [Facebook](https://www.facebook.com/breezekiteboarding). [Google Maps](https://goo.gl/maps/QchCouN5KusVBPVn6)
+[Сайт](https://www.breezesurfclub.com/). [Facebook](https://www.facebook.com/breezekiteboarding)
 
 Школа на Бантае, подходит для начинающих. У них есть кайтсерфинг, виндсерфинг, а также SUP доски (paddle board). Цены есть на сайте.
-- **KiteFlip**
 
-[Сайт](https://www.kiteflip.com/). [Facebook](https://www.facebook.com/kiteflip/). [Google Maps](https://g.page/kiteflip)
+
+[**KiteFlip**](https://g.page/kiteflip)
+
+[Сайт](https://www.kiteflip.com/). [Facebook](https://www.facebook.com/kiteflip/)
 
 Школа на Бантае на территории Mac’s Bay Resort. Удобный подъезд прямо к берегу. Все цены есть на сайте. Кроме кайтсерфинга есть вейкборд.
-- **Kiteboarding Asia (KBA)**
 
-[Сайт](https://www.kiteboardingasia.com/koh-phangan/koh-phangan/). [Facebook](https://www.facebook.com/kiteschoolkohphangan/). [Google Maps](https://goo.gl/maps/yxsA7T1FtpukEJ4Y7)
+
+[**Kiteboarding Asia (KBA)**](https://goo.gl/maps/yxsA7T1FtpukEJ4Y7)
+
+[Сайт](https://www.kiteboardingasia.com/koh-phangan/koh-phangan/). [Facebook](https://www.facebook.com/kiteschoolkohphangan/)
 
 Еще одна школа и магазин. В зависимости от сезона они располагаются либо в Тонгсале, либо в Чалокламе.
 

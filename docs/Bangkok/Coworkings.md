@@ -10,14 +10,14 @@ slug: /bangkok/coworkings
 
 ## Места
 
-- [The Work Loft](https://goo.gl/maps/vQZKFgAmzrwrUgk78)
+[**The Work Loft**](https://goo.gl/maps/vQZKFgAmzrwrUgk78)
 
 В Work Loft есть 6 конференц-залов вместимостью от 2 до 30 человек. Все комнаты оснащены высокоскоростным доступом в Интернет, телевизорами высокой четкости, белыми/графическими досками и бесплатным кофе, чаем и питьевой водой. С контрактом вы получаете доступ к коворку 24/7, 7 дней в неделю. Попробовать там поработать можно бесплатно
 
-- [The Great Room Gaysorn Tower](https://goo.gl/maps/CuMsaSW5DYaWxRaRA)
+[**The Great Room Gaysorn Tower**](https://goo.gl/maps/CuMsaSW5DYaWxRaRA)
 
 Признанный одним из лучших коворкингов в Бангкоке, The Great Room продуман до мелочей, чтобы увеличить количество случайных столкновений c единомышленниками и повысить производительность. Каждое место создано дизайнером гостиничного бизнеса, чтобы создать такую ​​же возвышенную среду с гладким, роскошным окружением и идеальным освещением.
 
-- [Glowfish Asoke](https://goo.gl/maps/6FGKYbG7q1HDBoud8) [Glowfish Sathorn](https://goo.gl/maps/Y7nT9hFDF4uUQ3re7)
+[**Glowfish Asoke**](https://goo.gl/maps/6FGKYbG7q1HDBoud8) [**Glowfish Sathorn**](https://goo.gl/maps/Y7nT9hFDF4uUQ3re7)
 
 У Glowfish две локации в Асоке и Сатхорн. Все офисные удобства присутствуют, а ещё тут очень красиво и стильно. Расположено в центре городе рядом со станциями BTS. Внутри есть всё: от бесплатного чая и кофе, до высокоскоростного интернета, печати и даже ивентов.

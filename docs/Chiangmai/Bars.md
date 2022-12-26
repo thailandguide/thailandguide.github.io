@@ -8,21 +8,21 @@ slug: /chiangmai/bars
 
 ## Места
 
-- [The North Gate](https://goo.gl/maps/1UeyCUPsPGg3XJXD8)
+[**The North Gate**](https://goo.gl/maps/1UeyCUPsPGg3XJXD8)
 
 Это андеграунд место, очень гранж — ободранные стены,грубые лавки, но прекрасная музыка и отличная атмосфера. Здесь играют не заготовленную музыку, всё что вы слышите всегда сымпровизированно и придумано на ходу. Если вы подниметесь на самый верх найдёте ещё один бар с балконом и видом на *квадрат*.
 
 
-- [Zoe in Yellow](https://goo.gl/maps/upEq8QHvzQU7VmsY7)
+[**Zoe in Yellow**](https://goo.gl/maps/upEq8QHvzQU7VmsY7)
 
 Очень туристическое место. Здесь играют различные ремиксы поп музыки. Есть еда, разливные напитки и коктейли. 
 
 
-- [Red](https://goo.gl/maps/GBr2X9P8tnGWw5qh9)
+[**Red**](https://goo.gl/maps/GBr2X9P8tnGWw5qh9)
 
 Андерграундный музыкальный бар в Чиангмае. В нём играет House, Techno и другие жанры EDM, иногда есть тематические вечера с Hip-Hop и Drum & Bass музыкой.
 
 
-- [Renegade Craft Beer & Ciders](https://goo.gl/maps/wmWboXS78jqvAqWK6)
+[**Renegade Craft Beer & Ciders**](https://goo.gl/maps/wmWboXS78jqvAqWK6)
 
 Отличный бар, с хорошим крафтовым пивом и сидром, чего вообще в Тайланде в дефиците. Не ожидайте дешевых цен на напитки, но ваша покупка будет того стоить.

@@ -4,6 +4,8 @@ sidebar_position: 6
 slug: /chiangmai/housing
 ---
 
+### Места
+
 ### Краткосрочная аренда жилья
 
 [**OneTwoTrip**](https://www.onetwotrip.com/) (RU карты)

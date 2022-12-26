@@ -6,15 +6,15 @@ slug: /samui/housing
 
 ## Места
 
-- [Baan Sukreep Resort](https://goo.gl/maps/rvaEHTQKm1Rd2JR29)
+[**Baan Sukreep Resort**](https://goo.gl/maps/rvaEHTQKm1Rd2JR29)
 
 Резорт состоящий из деревянных вилл рядом с пляжами. Вас будут окружать красивые тропические сады и море. Так же есть бассейны, бар, общие зоны для встреч с друзьями.
 
-- [VOP Suite](https://goo.gl/maps/GXiiiH46KvxZ1SLt7)
+[**VOP Suite**](https://goo.gl/maps/GXiiiH46KvxZ1SLt7)
 
 Отельное жильё с бассейном. Здесь есть всё необходимое и вы будете находится недалеко от самого активного района Самуи.
 
-- [The Bleu](https://goo.gl/maps/1p2oEjDJrNaVfsN96)
+[**The Bleu**](https://goo.gl/maps/1p2oEjDJrNaVfsN96)
 
 Кондоминиум с бассейном и спортзалом. Удобное расположение недалеко от Чавенга.
 
