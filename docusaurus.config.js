@@ -66,19 +66,19 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'general-guide/flights',
+            docId: 'general-guide/overview',
             position: 'left',
             label: 'Общий гайд',
           },
           {
             type: 'doc',
-            docId: 'Bangkok/Transport',
+            docId: 'Bangkok/overview',
             position: 'left',
             label: 'Бангкок',
           },
           {
             type: 'doc',
-            docId: 'Phuket/Transport',
+            docId: 'Phuket/overview',
             position: 'left',
             label: 'Пхукет',
           },
@@ -90,13 +90,13 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'Phangan/Transport',
+            docId: 'Phangan/overview',
             position: 'left',
             label: 'Панган',
           },
           {
             type: 'doc',
-            docId: 'Chiangmai/Transport',
+            docId: 'Chiangmai/overview',
             position: 'left',
             label: 'Чиангмай',
           },
