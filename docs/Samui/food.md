@@ -1,6 +1,6 @@
 ---
 title: Самуи Еда
-sidebar_position: 1
+sidebar_position: 2
 slug: /samui/food
 ---
 

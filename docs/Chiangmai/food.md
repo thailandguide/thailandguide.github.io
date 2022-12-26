@@ -1,12 +1,11 @@
 ---
 title: Чиангмай Еда
-sidebar_position: 1
+sidebar_position: 2
 slug: /chiangmai/food
 ---
 
 
 ### Кафе и Рестораны
-
 
 - [WAKO BAKE](https://goo.gl/maps/eHu8Etm7uA49AhDC9)
 

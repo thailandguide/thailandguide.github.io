@@ -66,37 +66,37 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'general-guide/overview',
+            docId: 'general-guide/Overview',
             position: 'left',
             label: 'Общий гайд',
           },
           {
             type: 'doc',
-            docId: 'Bangkok/overview',
+            docId: 'Bangkok/Overview',
             position: 'left',
             label: 'Бангкок',
           },
           {
             type: 'doc',
-            docId: 'Phuket/overview',
+            docId: 'Phuket/Overview',
             position: 'left',
             label: 'Пхукет',
           },
           {
             type: 'doc',
-            docId: 'Samui/Transport',
+            docId: 'Samui/Overview',
             position: 'left',
             label: 'Самуи',
           },
           {
             type: 'doc',
-            docId: 'Phangan/overview',
+            docId: 'Phangan/Overview',
             position: 'left',
             label: 'Панган',
           },
           {
             type: 'doc',
-            docId: 'Chiangmai/overview',
+            docId: 'Chiangmai/Overview',
             position: 'left',
             label: 'Чиангмай',
           },

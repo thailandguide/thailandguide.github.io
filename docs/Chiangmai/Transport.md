@@ -1,8 +1,10 @@
 ---
 title: Чиангмай Аренда транспорта
-sidebar_position: 0
+sidebar_position: 1
 slug: /chiangmai/transport
 ---
+
+
 
 - [D2 Bike Nimman Motorcycle](https://goo.gl/maps/izQhkY3xaHBv8zT28)
 

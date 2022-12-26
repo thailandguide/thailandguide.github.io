@@ -17,6 +17,11 @@ const sidebars = {
     {
       type: 'doc',
       id: 'general-guide/Overview',
+      label: 'Общая информация',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/transport',
       label: 'Транспорт',
     },
     {
@@ -41,11 +46,6 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'general-guide/transport',
-      label: 'Транспорт',
-    },
-    {
-      type: 'doc',
       id: 'general-guide/banks',
       label: 'Банки',
     },
@@ -64,7 +64,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'Bangkok/Overview',
-      label: 'Транспорт',
+      label: 'Общая информация',
     },
     {
       type: 'doc',
@@ -101,7 +101,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'Phuket/Overview',
-      label: 'Транспорт',
+      label: 'Общая информация',
     },
     {
       type: 'doc',
@@ -138,7 +138,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'Samui/Overview',
-      label: 'Транспорт',
+      label: 'Общая информация',
     },
     {
       type: 'doc',
@@ -175,7 +175,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'Phangan/Overview',
-      label: 'Транспорт',
+      label: 'Общая информация',
     },
     {
       type: 'doc',
@@ -222,7 +222,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'Chiangmai/Overview',
-      label: 'Транспорт',
+      label: 'Общая информация',
     },
     {
       type: 'doc',

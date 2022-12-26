@@ -1,11 +1,12 @@
 ---
 title: Панган Аренда транспорта
-sidebar_position: 0
+sidebar_position: 1
 slug: /phangan/transport
 ---
 
 ### Аренда байка
-**Dasha Phangan Rent**
+
+[**Dasha Phangan Rent**](https://goo.gl/maps/KbpHqnskYqCM5hQ39)
 
 Байки и автомобили на Пангане с возможностью выезда на Самуи.
 
@@ -17,15 +18,15 @@ slug: /phangan/transport
 Шлемы в комплекте
 Возможна оплата картой
 
-[На карте](https://goo.gl/maps/KbpHqnskYqCM5hQ39). [Telegram](tg://resolve?domain=dashaphanganrent). [Facebook](https://api.whatsapp.com/send?phone=66987136432). [WhatsApp](https://api.whatsapp.com/send?phone=66987136432). Телефон +66 987 136 432.
+[Telegram](tg://resolve?domain=dashaphanganrent). [Facebook](https://api.whatsapp.com/send?phone=66987136432). [WhatsApp](https://api.whatsapp.com/send?phone=66987136432). Телефон +66 987 136 432.
 
-**Garage Phangan**
+[**Garage Phangan**](https://goo.gl/maps/tn8CME5hpeTfgHYa6)
 
 Русские ребята, большой прокат, скутеры и мотоциклы, на повреждениях не зарабатывают. Пешком 7 минут от пирса.
 
-[На карте](https://goo.gl/maps/tn8CME5hpeTfgHYa6). [Telegram](tg://resolve?domain=GaragePhangan). [Facebook](https://web.facebook.com/TheGaragePhangan). Телефон +66 632 608 939.
+[Telegram](tg://resolve?domain=GaragePhangan). [Facebook](https://web.facebook.com/TheGaragePhangan). Телефон +66 632 608 939.
 
-**Gipsy Riders**
+[**Gipsy Riders**](https://goo.gl/maps/sAEWodgrNo42)
 
 Один из старейших официальных рентов на острове. 5 лет хорошей репутации. Новый скутеры 2016−2019 годов. Основа парка — популярные модели HONDA PCX 150, HONDA CLICK 125, YAMAHA AEROX 155.
 
@@ -35,7 +36,7 @@ slug: /phangan/transport
 Лояльное отношение к крупным повреждениям и ремонт по цене деталей.
 Обучение езде и инструктаж для новичков.
 
-[На карте](https://goo.gl/maps/sAEWodgrNo42). [Facebook](https://www.facebook.com/rentbikephangan). [Telegram](tg://resolve?domain=Ma3yp). Телефон +66 980 108 840
+[Facebook](https://www.facebook.com/rentbikephangan). [Telegram](tg://resolve?domain=Ma3yp). Телефон +66 980 108 840
 
 **Green Way**
 
@@ -73,7 +74,7 @@ slug: /phangan/transport
 
 [Telegram](tg://resolve?domain=batischev). [Facebook](https://www.facebook.com/serge.batishev.7). [ВКонтакте](https://vk.com/thisislife).
 
-**Phangan Wheels**
+[**Phangan Wheels**](https://goo.gl/maps/Yb196y3g9vA2)
 
 Честная Аренда байков, трайков (трёхколёсные байки) и машин.
 
@@ -87,25 +88,25 @@ slug: /phangan/transport
 Бесплатно шлемы (в том числе детские) и дождевики
 Угощаем вкусным кофе
 
-[На карте](https://goo.gl/maps/Yb196y3g9vA2). [Telegram](tg://resolve?domain=PhanganWheels). [Facebook](https://web.facebook.com/phanganwheels). [WhatsApp](https://api.whatsapp.com/send?phone=66622236375). Телефон +66 622 236 375
+[Telegram](tg://resolve?domain=PhanganWheels). [Facebook](https://web.facebook.com/phanganwheels). [WhatsApp](https://api.whatsapp.com/send?phone=66622236375). Телефон +66 622 236 375
 
-**Qu Phangan**
+[**Qu Phangan**](https://www.google.ru/maps/place/Qu-Phangan+Co..Ltd./@9.7349115,99.9695663,14z/data=!4m8!1m2!2m1!1s+Qu-Phangan+rental+motorbike+and+car!3m4!1s0x3054fddc9d4421ad:0x84bb8cf351c5925a!8m2!3d9.726824!4d100.000371)
 
 Русскоязычные ребята, есть свой сервис.
 
-[На карте](https://www.google.ru/maps/place/Qu-Phangan+Co..Ltd./@9.7349115,99.9695663,14z/data=!4m8!1m2!2m1!1s+Qu-Phangan+rental+motorbike+and+car!3m4!1s0x3054fddc9d4421ad:0x84bb8cf351c5925a!8m2!3d9.726824!4d100.000371). [Facebook](https://www.facebook.com/QuPhangan). Телефон +66 926 428 137
+[Facebook](https://www.facebook.com/QuPhangan). Телефон +66 926 428 137
 
-**RentCar Koh Phangan**
+[**RentCar Koh Phangan**](https://goo.gl/maps/Ef59QR3PL552)
 
 Русскоязычные ребята, есть байки и машины, есть доставка.
 
-[На карте](https://goo.gl/maps/Ef59QR3PL552). [Telegram](tg://resolve?domain=carbikerentsale).
+[Telegram](tg://resolve?domain=carbikerentsale).
 
-**Sweet Shell**
+[**Sweet Shell**](https://www.google.ru/maps/place/Sweet+Shell/@9.7195409,99.9902154,17z/data=!3m1!4b1!4m5!3m4!1s0x3054fdd7c645f8d5:0x8dde7c6a6f278d2d!8m2!3d9.7195356!4d99.9924041?hl=ru)
 
 Русские ребята.
 
-[На карте](https://www.google.ru/maps/place/Sweet+Shell/@9.7195409,99.9902154,17z/data=!3m1!4b1!4m5!3m4!1s0x3054fdd7c645f8d5:0x8dde7c6a6f278d2d!8m2!3d9.7195356!4d99.9924041?hl=ru). [Telegram](tg://resolve?domain=Ayub1973). [Facebook](https://www.facebook.com/sweetshellcafe/).
+[Telegram](tg://resolve?domain=Ayub1973). [Facebook](https://www.facebook.com/sweetshellcafe/).
 
 **TN Phangan**
 
@@ -118,7 +119,7 @@ TN Phangan. Официальный прокат байков. Без залог�
 
 [Telegram](tg://resolve?domain=Vitalikdvi). [WhatsApp](https://api.whatsapp.com/send?phone=79381071446). [Facebook](https://www.facebook.com/profile.php?id=100002902303958). Телефон +66636480286.
 
-**Twin Villas**
+[**Twin Villas**](https://goo.gl/maps/g9KfDAeoqys)
 
 Байки HONDA PCX, различные модели, различные цены, состояние отличное, регулярные ТО, резина Michelin, без выезда на материк, только по острову. Возможна встреча клиента в порту и транспортировка в Twin Villas для оформления договора.
 
@@ -126,14 +127,14 @@ TN Phangan. Официальный прокат байков. Без залог�
 
 Залог 10т бат ($300) или загранпаспорт. Стоимость аренды от 150 бат в день, 4000 бат в месяц.
 
-[Telegram](tg://resolve?domain=Alex_M_68). [На карте](https://goo.gl/maps/g9KfDAeoqys). [Facebook](https://www.facebook.com/flipcarman).
+[Telegram](tg://resolve?domain=Alex_M_68). [Facebook](https://www.facebook.com/flipcarman).
 
-**Дмитрий Сантана**
+[**Дмитрий Сантана**](https://www.google.com/maps?q=9.756541,99.965765)
 
 Honda PCX, Yamaha NMax, Honda Click, Scoopy. Залог — паспорт или депозит от 3000 до 7000 бат в зависимости от байка, Доставка байка по острову тоже есть.
 Есть тайский сервис по ремонту байков, с которым сотрудничаю уже долгое время, цены на ремонт как для местных тайцев, находятся там же. Никакого развода по поводу повреждений. Поэтому в случае аварий — лучше приехать договориться. Если что-то не устроит — то ремонтировать на стороне.
 
-[На карте](https://www.google.com/maps?q=9.756541,99.965765). [Telegram](tg://resolve?domain=dmitrysantana). Телефон +66 660 187 027
+[Telegram](tg://resolve?domain=dmitrysantana). Телефон +66 660 187 027
 
 **Тим Саныч**
 
@@ -141,11 +142,13 @@ Honda PCX, Yamaha NMax, Honda Click, Scoopy. Залог — паспорт ил�
 
 [Telegram](tg://resolve?domain=TimSanich)
 
-**Relax Car & Bike Rent**
+[**Relax Car & Bike Rent**](https://goo.gl/maps/pAbfiu215zEucwNt8)
 
 Тайский прокат в Тонгсале, проверен многократно, цены за царапины адекватные. Владелец не очень хорошо говорит по-английски, но адекватный, можно договориться починить что-то в складчину (например, замена постоянно спускающегося колеса). В наличии байки Honda Сlick — 200 бат/сутки.
 
-[На карте](https://goo.gl/maps/pAbfiu215zEucwNt8)
+
+
+
 Недорого помыть байк можно на [этой заправке](https://goo.gl/maps/p5w7bT1kMD7H69Ru9), либо на [этой автомойке](https://goo.gl/maps/jVfFWmWsKiwLiGyj7).
 
 ### Автомобили в аренду
@@ -156,7 +159,7 @@ Honda PCX, Yamaha NMax, Honda Click, Scoopy. Залог — паспорт ил�
 
 [Telegram](tg://resolve?domain=Apolisario). [WhatsApp](https://api.whatsapp.com/send?phone=66652345403). Телефон +66652345403 (Антон)
 
-**Phangan Rent**
+[**Phangan Rent**](https://goo.gl/maps/KbpHqnskYqCM5hQ39)
 
 Байки и автомобили на Пангане с возможностью выезда на Самуи.
 
@@ -166,9 +169,9 @@ Honda PCX, Yamaha NMax, Honda Click, Scoopy. Залог — паспорт ил�
 Не зарабатывают на царапинах
 Возможна оплата картой
 
-[На карте](https://goo.gl/maps/KbpHqnskYqCM5hQ39). [Telegram](tg://resolve?domain=PhanganWheels). [Facebook](https://web.facebook.com/phanganwheels). [WhatsApp](https://api.whatsapp.com/send?phone=66622236375). Телефон +66 987 136 432.
+[Telegram](tg://resolve?domain=PhanganWheels). [Facebook](https://web.facebook.com/phanganwheels). [WhatsApp](https://api.whatsapp.com/send?phone=66622236375). Телефон +66 987 136 432.
 
-**Phangan Wheels**
+[**Phangan Wheels**](https://goo.gl/maps/Yb196y3g9vA2)
 
 Честная Аренда автомобилей.
 
@@ -182,7 +185,7 @@ Honda PCX, Yamaha NMax, Honda Click, Scoopy. Залог — паспорт ил�
 Выезд на материк по дополнительному согласованию
 Угощаем вкусным кофе
 
-[На карте](https://goo.gl/maps/Yb196y3g9vA2). [Telegram](tg://resolve?domain=PhanganWheels). [Facebook](https://web.facebook.com/phanganwheels). [WhatsApp](https://api.whatsapp.com/send?phone=66622236375). Телефон +66 622 236 375
+[Telegram](tg://resolve?domain=PhanganWheels). [Facebook](https://web.facebook.com/phanganwheels). [WhatsApp](https://api.whatsapp.com/send?phone=66622236375). Телефон +66 622 236 375
 
 **LifeSamui.co.ltd**
 
@@ -196,7 +199,7 @@ Honda PCX, Yamaha NMax, Honda Click, Scoopy. Залог — паспорт ил�
 Есть детские кресла
 Машины сдаём без выезда на материк
 
-Для связи: [Telegram](tg://resolve?domain=katerinalifesamui), [WhatsApp](https://api.whatsapp.com/send?phone=66963048488) или телефон +66 (96) 304−84−88
+[Telegram](tg://resolve?domain=katerinalifesamui). [WhatsApp](https://api.whatsapp.com/send?phone=66963048488). Телефон +66 (96) 304−84−88
 
 **Arkady Volk**
 
@@ -211,13 +214,13 @@ Honda PCX, Yamaha NMax, Honda Click, Scoopy. Залог — паспорт ил�
 
 [Facebook](https://www.facebook.com/1365412592). [WhatsApp](https://api.whatsapp.com/send?phone=66971592381). Телефон +66 971 592 381
 
-**Qu Phangan**
+[**Qu Phangan**](https://www.google.ru/maps/place/Qu-Phangan+Co..Ltd./@9.7349115,99.9695663,14z/data=!4m8!1m2!2m1!1s+Qu-Phangan+rental+motorbike+and+car!3m4!1s0x3054fddc9d4421ad:0x84bb8cf351c5925a!8m2!3d9.726824!4d100.000371)
 
 Русские ребята.
 Toyota Vios 1,6 automatic
 Toyota HiLux: пикап на механике
 
-[На карте](https://www.google.ru/maps/place/Qu-Phangan+Co..Ltd./@9.7349115,99.9695663,14z/data=!4m8!1m2!2m1!1s+Qu-Phangan+rental+motorbike+and+car!3m4!1s0x3054fddc9d4421ad:0x84bb8cf351c5925a!8m2!3d9.726824!4d100.000371). [Facebook](https://www.facebook.com/QuPhangan). Телефон +66 926 428 137
+[Facebook](https://www.facebook.com/QuPhangan). Телефон +66 926 428 137
 
 **Mark MV**
 
@@ -265,15 +268,17 @@ Toyota Yaris Ativ 2019 год выпуск. Белый, седан, автома
 
 Русские ребята. Пунктуальные. Такси по острову, встреча на пирсе, переезды. Компании до трех человек. Также занимаются доставкой (продукты, лекарства). Строго до 23 часов.
 
-Сколько стоит? Из Тонг Салы до Бантая или Шритану ~ 200 бат, до Чалоклама или Хадрина ~ 250 бат.
-[Telegram](tg://resolve?domain=phangan_delivery), [WhatsApp](https://api.whatsapp.com/send?phone=66984639658)
+Из Тонг Салы до Бантая или Шритану ~ 200 бат, до Чалоклама или Хадрина ~ 250 бат.
+
+[Telegram](tg://resolve?domain=phangan_delivery). [WhatsApp](https://api.whatsapp.com/send?phone=66984639658)
 
 **Такси (автомобиль), русские**
 
 Русский парень Сергей на автомобиле. Такси по острову, трансфер с пирса до жилья (может встретить с табличкой), помощь в переезде. Есть два автомобиля: пикап Toyota Hilux и минивен VW Caravelle.
 
-Сколько стоит? Из Тонг Салы до Бантая, Шритану, Чалоклама ~ от 500 бат, до Хадрина ~ от 700 бат.
-[Telegram](tg://resolve?domain=papamir), [WhatsApp](https://api.whatsapp.com/send?phone=79670867294)
+Из Тонг Салы до Бантая, Шритану, Чалоклама ~ от 500 бат, до Хадрина ~ от 700 бат.
+
+[Telegram](tg://resolve?domain=papamir). [WhatsApp](https://api.whatsapp.com/send?phone=79670867294)
 
 **Такси от тайцев**
 Местные тайцы на своих автомобилях иногда работают как такси. Связываться с ними обычно по WhatsApp. Приезжают по точке на карте.
@@ -288,14 +293,15 @@ Toyota Yaris Ativ 2019 год выпуск. Белый, седан, автома
 Сколько стоит? Доехать из Тонг Салы до Бантая или Хадрина — 150 бат с человека, до всех остальных мест — 200 бат, до Тонг Най Пан — 300 бат. Если не хотите ждать, пока наберется полная машина — придется выложить 1500 бат. [Как выглядит](https://myphangan.ru/taxi#popup:songthaew) сонгтео?
 
 ### Обучение езде на байке
+
 **Александр Баландин**. 
 
 Инструктор со стажем 7 лет. Работаю со страхами, ставлю плавную динамику, обучаю даже тех, кто не умеет водить велосипед или те кто много раз пробовали учиться, но у них не вышло. В среднем хватает 2-3 занятия по 2 часа. Стоимость одного занятия 1000 бат. [Telegram](tg://resolve?domain=Samuiko). [Facebook](https://www.facebook.com/profile.php?id=100004166207222). [WhatsApp](https://api.whatsapp.com/send?phone=66830304096). Телефон +66830304096.
 
-**Phangan Wheels**. 
+[**Phangan Wheels**](https://goo.gl/maps/Yb196y3g9vA2)
 
 Начинаем на трайке (трехколесный байк), разделяя задачу работы органов управления и баланса байка на две фазы - так легче. Плюс в том, что клиент не боится упасть (трайк как тележка) и может сконцентрироваться на тормозах и газе. Потом мы переключаем трайк в режим байка, когда он наклоняется. И работаем с балансом. Все это на стадионе. 60 минут – 700 бат.
-[На карте](https://goo.gl/maps/Yb196y3g9vA2). [Telegram](tg://resolve?domain=PhanganWheels). [Facebook](https://web.facebook.com/phanganwheels). [WhatsApp](https://api.whatsapp.com/send?phone=66622236375). Телефон +66622236375.
+[Telegram](tg://resolve?domain=PhanganWheels). [Facebook](https://web.facebook.com/phanganwheels). [WhatsApp](https://api.whatsapp.com/send?phone=66622236375). Телефон +66622236375.
 
 **Иван Краснов**. 
 
@@ -307,7 +313,7 @@ Toyota Yaris Ativ 2019 год выпуск. Белый, седан, автома
 
 **Алекс Каштанов**.
 
- Живу в Азии больше 5 лет, обучаю больше 3 лет. Есть много отзывов довольных учеников в моем Instagram. 3-часовой экспресс-курс стоит 1500 бат, 6-часовой полный курс (2 занятия по 3 часа) — 3000 бат. [Telegram](tg://resolve?domain=redbaronx). [WhatsApp](https://api.whatsapp.com/send?phone=66657345040). [Instagram](https://instagram.com/moto_asia2015).
+Живу в Азии больше 5 лет, обучаю больше 3 лет. Есть много отзывов довольных учеников в моем Instagram. 3-часовой экспресс-курс стоит 1500 бат, 6-часовой полный курс (2 занятия по 3 часа) — 3000 бат. [Telegram](tg://resolve?domain=redbaronx). [WhatsApp](https://api.whatsapp.com/send?phone=66657345040). [Instagram](https://instagram.com/moto_asia2015).
 
 [Полезная статья](http://siamese.me/article/?tx_news_pi1%5Bnews%5D=66&cHash=2e11109abff46eda6f61de42b6e5b93b) про реальные правила вождения на тайских дорогах. Про зону ответственности: «я тебя вижу, значит я тебя пропущу». Интересная.
 
