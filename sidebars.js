@@ -56,6 +56,11 @@ const sidebars = {
     },
     {
       type: 'doc',
+      id: 'general-guide/medicine',
+      label: 'Медицина',
+    },
+    {
+      type: 'doc',
       id: 'general-guide/exchange',
       label: 'Обмен валюты',
     },

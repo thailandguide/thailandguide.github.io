@@ -1,6 +1,6 @@
 ---
 title: Обмен валюты
-sidebar_position: 8
+sidebar_position: 9
 slug: /general-guide/exchange
 ---
 
