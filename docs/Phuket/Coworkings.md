@@ -8,6 +8,7 @@ slug: /phuket/coworkings
 [**Let’s Work**](https://goo.gl/maps/ukPzB8nyD8ZJSTiJA) - 08.00 - 22.00 (сб-вс: 08.00 - 20.00) - 4000 бат / мес
 
 
+
 [**Bayaco**](https://g.page/bayaco-coworking-space-phuket?share) - 09.00 - 19.00 (сб-вс: 10.00 - 19.00) - 2500 бат / мес
 
 

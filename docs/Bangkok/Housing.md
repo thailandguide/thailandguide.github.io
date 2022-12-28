@@ -10,6 +10,7 @@ slug: /bangkok/housing
 ### Раттанакосин
 
 [**The Pillow Hostel**](https://goo.gl/maps/E4PvX94gr2CF4DFr8)
+
 Чистый и аккуратный хостел прямо на Каосане. Есть уютная гостиная и столовая. Вот только комнаты совсем небольшие и ночью от музыки трясутся стены и кровать. Койка в дорме – $ 9 за ночь, а небольшой твин-рум можно снять за $ 15. Подойдет тем, кто планирует тусить ночью и спать днем!
 
 [**NapPark Hostel**](https://goo.gl/maps/9ZHUT7Am7tKTaTzG8)
@@ -59,31 +60,31 @@ slug: /bangkok/housing
 
 ### Краткосрочная аренда жилья
 
-[**OneTwoTrip**](https://www.onetwotrip.com/) (RU карты)
+- [**OneTwoTrip**](https://www.onetwotrip.com/) (RU карты)
 
-[**Ostrovok**](https://ostrovok.ru/) (RU карты)
+- [**Ostrovok**](https://ostrovok.ru/) (RU карты)
 
-[**Booking**](https://www.booking.com/) (иностранные карты)
+- [**Booking**](https://www.booking.com/) (иностранные карты)
 
-[**AirBnb**](https://www.airbnb.ru/) (иностранные карты)
+- [**AirBnb**](https://www.airbnb.ru/) (иностранные карты)
 
 ### Долгосрочная аренда жилья
 
-[**Agoda**](https://www.agoda.com/ru-ru)
+- [**Agoda**](https://www.agoda.com/ru-ru)
 
-[**Renthub**](https://www.renthub.in.th/en)
+- [**Renthub**](https://www.renthub.in.th/en)
 
-[**Ddproperty**](https://www.ddproperty.com/en)
+- [**Ddproperty**](https://www.ddproperty.com/en)
 
-[**Hipflat**](https://www.hipflat.co.th/en)
+- [**Hipflat**](https://www.hipflat.co.th/en)
 
-[**Phuket Rest**](https://phuket.rest/)
+- [**Phuket Rest**](https://phuket.rest/)
 
-[**66property**](https://66property.com/property/condos-for-rent-chiang-mai/)
+- [**66property**](https://66property.com/property/condos-for-rent-chiang-mai/)
 
-[**Perfect Homes**](https://perfecthomes.co.th/)
+- [**Perfect Homes**](https://perfecthomes.co.th/)
 
-[**Thailand Property**](https://www.thailand-property.com/)
+- [**Thailand Property**](https://www.thailand-property.com/)
 
 ## Facebook Marketplace
 

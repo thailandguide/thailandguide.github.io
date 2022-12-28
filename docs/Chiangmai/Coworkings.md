@@ -4,6 +4,8 @@ sidebar_position: 5
 slug: /chiangmai/coworkings
 ---
 
+Специализированных коворков тут не так много, многие без удобных кресел, но с красивыми локациями. Так же вы можете посмотреть в наш список [кафе и кофеен](./food.md) чтобы найти место по вкусу.
+
 
 [**Kalm Village Chiangmai**](https://goo.gl/maps/AAJzxgwzddGaUbRz5)
 

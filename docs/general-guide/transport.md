@@ -12,7 +12,7 @@ slug: /general-guide/transport
 [**12go**](https://12go.co/en)
 Это сайт для любых передвижений. Можно купить составные трансферы из аэропорта, например автобус+паром.
 
-[**Lom Prayah**](https://www.lomprayah.com/page/route) [**Raja Ferry Port**](https://www.rajaferryport.com/) [**Haadrin Queen**](https://www.haadrinqueen.com/)
+[**Lom Prayah**](https://www.lomprayah.com/page/route) | [**Raja Ferry Port**](https://www.rajaferryport.com/) | [**Haadrin Queen**](https://www.haadrinqueen.com/)
 Сайты портов на Самуи, на которых можно купить билеты.
 
 [**Sea Tran Ferry**](https://www.seatranferry.com/)
