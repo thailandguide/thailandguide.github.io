@@ -29,5 +29,3 @@ slug: /general-guide/simcards
 
 **Как пополнить:** Наличкой - на кассе в любом магазине 7-Eleven, Family mart или купить карточку с балансом и пополнить с нее. Онлайн: в приложении оператора. Автосписание каждый месяц.
 
-
-[Больше…](https://life-trip.ru/mobilnyj-internet-v-tajlande-i-svyaz/)
