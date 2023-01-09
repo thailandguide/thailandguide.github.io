@@ -60,7 +60,7 @@ const config = {
         title: 'Thailand Guide',
         logo: {
           alt: 'Ultimative guide to Thailand',
-          src: 'img/logotype.png',
+          src: 'img/icon.png',
         },
         items: [
           {
