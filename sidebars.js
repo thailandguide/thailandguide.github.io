@@ -21,6 +21,26 @@ const sidebars = {
     },
     {
       type: 'doc',
+      id: 'general-guide/visa',
+      label: 'Визы', 
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/insurance',
+      label: 'Страховки',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/banks',
+      label: 'Банки',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/medicine',
+      label: 'Медицина',
+    },
+    {
+      type: 'doc',
       id: 'general-guide/transport',
       label: 'Транспорт',
     },
@@ -31,11 +51,6 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'general-guide/visa',
-      label: 'Визы', 
-    },
-    {
-      type: 'doc',
       id: 'general-guide/simcards',
       label: 'Сим-карты',
     },
@@ -43,26 +58,6 @@ const sidebars = {
       type: 'doc',
       id: 'general-guide/apps',
       label: 'Приложения',
-    },
-    {
-      type: 'doc',
-      id: 'general-guide/banks',
-      label: 'Банки',
-    },
-    {
-      type: 'doc',
-      id: 'general-guide/insurance',
-      label: 'Страховки',
-    },
-    {
-      type: 'doc',
-      id: 'general-guide/medicine',
-      label: 'Медицина',
-    },
-    {
-      type: 'doc',
-      id: 'general-guide/exchange',
-      label: 'Обмен валюты',
     },
   ],
   bangkokSidebar: [

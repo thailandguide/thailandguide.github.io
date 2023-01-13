@@ -32,8 +32,8 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="Guide to Thailand is a comprehensive resource for planning a trip to Thailand, created and maintained by a community of travelers. From top tourist destinations to off-the-beaten-path experiences, our guide has something for everyone. Find information on hotels, transportation, cultural events, and more. Start planning your dream trip to Thailand today with Guide to Thailand!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

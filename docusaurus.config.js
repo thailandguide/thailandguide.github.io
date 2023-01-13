@@ -24,8 +24,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'ru',
+    locales: ['ru'],
   },
 
   presets: [
@@ -38,14 +38,13 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/thailandguide/thailandguide.github.io/tree/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -60,8 +59,8 @@ const config = {
       navbar: {
         title: 'Thailand Guide',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logotype.png',
+          alt: 'Ultimative guide to Thailand',
+          src: 'img/icon.png',
         },
         items: [
           {
@@ -115,34 +114,26 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Telegram',
+                href: 'https://t.me/thailanddao',
               },
             ],
           },
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
+              // {
+              //   label: 'GitHub',
+              //   href: 'https://github.com/facebook/docusaurus',
+              // },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Thailand guide, DAO. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
