@@ -10,11 +10,15 @@ slug: /emergency-help
 
 # **Телефоны**
 
-Скорая и спасатели (Ambulance and Rescue) — **1554**
+Скорая и спасатели (Ambulance and Rescue)  **1554**
 
-Скорая (Medical Emergency Call) — **1669**
+Скорая (Medical Emergency Call)  **1669**
 
-Туристическая полиция (Tourist Police) — **1155**
+Туристическая полиция (Tourist Police)  **1155**
+
+Пожарная служба  **199**
+
+Служба отлова змей и диких животных  **089 663 5085**
 
 # **Солнечные ожоги**
 
