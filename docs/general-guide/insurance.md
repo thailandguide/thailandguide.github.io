@@ -1,6 +1,6 @@
 ---
 title: Страховка
-sidebar_position: 7
+sidebar_position: 10
 slug: /general-guide/insurance
 ---
 

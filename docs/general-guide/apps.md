@@ -1,6 +1,6 @@
 ---
 title: Приложения
-sidebar_position: 4
+sidebar_position: 8
 slug: /general-guide/apps
 ---
 

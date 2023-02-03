@@ -17,12 +17,52 @@ const sidebars = {
     {
       type: 'doc',
       id: 'general-guide/Overview',
-      label: 'Общая информация',
+      label: 'Про Тайланд',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/flights',
+      label: 'Перелёты',
     },
     {
       type: 'doc',
       id: 'general-guide/visa',
       label: 'Визы', 
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/simcards',
+      label: 'Связь',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/housing',
+      label: 'Жильё',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/currency',
+      label: 'Валюта',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/transport',
+      label: 'Транспорт',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/driving-license',
+      label: 'Водительские права',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/apps',
+      label: 'Приложения',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/animals',
+      label: 'Опасные животные',
     },
     {
       type: 'doc',
@@ -41,23 +81,18 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'general-guide/transport',
-      label: 'Транспорт',
+      id: 'general-guide/work',
+      label: 'Работа в Тайланде',
     },
     {
       type: 'doc',
-      id: 'general-guide/flights',
-      label: 'Перелёты',
+      id: 'general-guide/taxes',
+      label: 'Налоги в Тайланде',
     },
     {
       type: 'doc',
-      id: 'general-guide/simcards',
-      label: 'Сим-карты',
-    },
-    {
-      type: 'doc',
-      id: 'general-guide/apps',
-      label: 'Приложения',
+      id: 'general-guide/excursions',
+      label: 'Экскурсии',
     },
   ],
   bangkokSidebar: [
