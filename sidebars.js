@@ -17,7 +17,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'general-guide/overview',
-      label: 'Общая информация',
+      label: 'Про Тайланд',
     },
     {
       type: 'doc',

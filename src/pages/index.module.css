@@ -2,6 +2,10 @@
   position: relative;
   padding-top: 0;
   padding-bottom: 0;
+  background: center no-repeat url("/static/img/homepageBackground.png");
+  background-size: cover;
+  min-width: fit-content;
+  min-height: 900px;
 }
 
 .container {
@@ -9,8 +13,30 @@
   padding-right: 48px;
   position: relative;
   overflow: auto;
-  background: url("/static/img/buddha.png") 85% center/30% no-repeat;
+  
 }
+
+h1.featureTitle {
+  text-align: center;
+  margin: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 43px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+p.featureDescription {
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  color: #FFFFFF;
+  max-width: 950px;
+}
+
 
 .buttons {
   display: flex;
@@ -22,6 +48,29 @@
   width: 100%;
   padding-top: 128px;
   padding-bottom: 128px;
+}
+
+h1.hero__title {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700px;
+  font-size: 99px;
+  line-height: 121px;
+  color: #FFFFFF;
+  width: 783px;
+  height: 121px;
+  
+}
+
+p.hero__subtitle {
+  font-family: 'Cera Pro';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 40px;
+  color: #FFFFFF;
+  width: 637px;
+  height: 40px;
 }
 
 @media only screen and (max-width: 768px) {

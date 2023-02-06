@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Актуальная информация',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/relevantInfo.svg').default,
     description: (
       <>
         Наш гид всегда актуален и содержит самую свежую информацию о Таиланде.
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Полное покрытие',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/fullCoverage.svg').default,
     description: (
       <>
        Наш гид охватывает множество городов и регионов Таиланда.
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Полезные советы',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/usefulAdvice.svg').default,
     description: (
       <>
         Наш гид наполнен полезными советами и рекомендациями для путешествий по Таиланду.
@@ -56,6 +56,8 @@ export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
+        <h1 className='featureTitle text--center padding-horiz--md'>Чем мы можем быть вам полезны?</h1>
+        <p className='featureDescription text--center padding-horiz--md'>Мы живем в Тайланде и знаем как устроиться что купить что попить где потанцевать как сделать визу на чем лететь сколько все стоит где купить таблетки где купить кофе сколько сейчас время  и не только</p>
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
