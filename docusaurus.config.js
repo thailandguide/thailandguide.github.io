@@ -71,13 +71,13 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'bangkok/housing',
+            docId: 'Bangkok/Housing',
             position: 'left',
             label: 'Бангкок',
           },
           {
             type: 'doc',
-            docId: 'phuket/housing',
+            docId: 'Phuket/Housing',
             position: 'left',
             label: 'Пхукет',
           },
