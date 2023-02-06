@@ -16,7 +16,7 @@ const sidebars = {
   generalSidebar: [
     {
       type: 'doc',
-      id: 'general-guide/overview',
+      id: 'general-guide/Overview',
       label: 'Про Тайланд',
     },
     {
@@ -137,7 +137,7 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'Bangkok/housing',
+          id: 'Bangkok/Housing',
           label: 'Жильё',
         },
         {
@@ -178,7 +178,7 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'Bangkok/overview',
+          id: 'Bangkok/Overview',
           label: 'Введение',
         },
         {
@@ -262,7 +262,7 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'Phuket/housing',
+          id: 'Phuket/Housing',
           label: 'Жильё',
         },
         {
@@ -303,7 +303,7 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'Phuket/overview',
+          id: 'Phuket/Overview',
           label: 'Введение',
         },
         {
@@ -344,7 +344,7 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'Phuket/events',
+          id: 'Phuket/Events',
           label: 'Мероприятия',
         },
         {
