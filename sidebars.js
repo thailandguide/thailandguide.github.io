@@ -17,12 +17,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'general-guide/overview',
-      label: 'Про Тайланд',
-    },
-    {
-      type: 'doc',
-      id: 'general-guide/flights',
-      label: 'Перелёты',
+      label: 'Общая информация',
     },
     {
       type: 'doc',
@@ -53,6 +48,46 @@ const sidebars = {
       type: 'doc',
       id: 'general-guide/driving-license',
       label: 'Водительские права',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/apps',
+      label: 'Приложения',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/animals',
+      label: 'Опасные животные',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/simcards',
+      label: 'Связь',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/housing',
+      label: 'Жильё',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/currency',
+      label: 'Валюта',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/work',
+      label: 'Работа в Тайланде',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/flights',
+      label: 'Перелёты',
+    },
+    {
+      type: 'doc',
+      id: 'general-guide/simcards',
+      label: 'Сим-карты',
     },
     {
       type: 'doc',
