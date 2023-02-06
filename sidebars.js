@@ -137,37 +137,37 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'bangkok/housing',
+          id: 'Bangkok/housing',
           label: 'Жильё',
         },
         {
           type: 'doc',
-          id: 'bangkok/visa',
+          id: 'Bangkok/visa',
           label: 'Визы',
         },
         {
           type: 'doc',
-          id: 'bangkok/documents',
+          id: 'Bangkok/documents',
           label: 'Прочие документы',
         },
         {
           type: 'doc',
-          id: 'bangkok/banks',
+          id: 'Bangkok/banks',
           label: 'Банки и валюты',
         },
         {
           type: 'doc',
-          id: 'bangkok/car',
+          id: 'Bangkok/car',
           label: 'Своё авто',
         },
         {
           type: 'doc',
-          id: 'bangkok/insurance',
+          id: 'Bangkok/insurance',
           label: 'Страховки',
         },
         {
           type: 'doc',
-          id: 'bangkok/services',
+          id: 'Bangkok/services',
           label: 'Деловые услуги',
         },
       ],
@@ -178,37 +178,37 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'bangkok/overview',
+          id: 'Bangkok/overview',
           label: 'Введение',
         },
         {
           type: 'doc',
-          id: 'bangkok/food',
+          id: 'Bangkok/food',
           label: 'Питание',
         },
         {
           type: 'doc',
-          id: 'bangkok/products',
+          id: 'Bangkok/products',
           label: 'Товары',
         },
         {
           type: 'doc',
-          id: 'bangkok/kids',
+          id: 'Bangkok/kids',
           label: 'Для детей',
         },
         {
           type: 'doc',
-          id: 'bangkok/animals',
+          id: 'Bangkok/animals',
           label: 'Для животных',
         },
         {
           type: 'doc',
-          id: 'bangkok/medicine',
+          id: 'Bangkok/medicine',
           label: 'Медицина',
         },
         {
           type: 'doc',
-          id: 'bangkok/public-transport',
+          id: 'Bangkok/public-transport',
           label: 'Общественный транспорт',
         },
       ],
@@ -219,37 +219,37 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'bangkok/events',
+          id: 'Bangkok/events',
           label: 'Мероприятия',
         },
         {
           type: 'doc',
-          id: 'bangkok/cafe',
+          id: 'Bangkok/cafe',
           label: 'Заведения',
         },
         {
           type: 'doc',
-          id: 'bangkok/cannabis',
+          id: 'Bangkok/cannabis',
           label: '4-20',
         },
         {
           type: 'doc',
-          id: 'bangkok/beaches',
+          id: 'Bangkok/beaches',
           label: 'Пляжи',
         },
         {
           type: 'doc',
-          id: 'bangkok/excursions',
+          id: 'Bangkok/excursions',
           label: 'Экскурсии',
         },
         {
           type: 'doc',
-          id: 'bangkok/rent',
+          id: 'Bangkok/rent',
           label: 'Туристическая аренда',
         },
         {
           type: 'doc',
-          id: 'bangkok/free-time',
+          id: 'Bangkok/free-time',
           label: 'Локации для досуга',
         },
       ],
@@ -262,37 +262,37 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'phuket/housing',
+          id: 'Phuket/housing',
           label: 'Жильё',
         },
         {
           type: 'doc',
-          id: 'phuket/visa',
+          id: 'Phuket/visa',
           label: 'Визы',
         },
         {
           type: 'doc',
-          id: 'phuket/documents',
+          id: 'Phuket/documents',
           label: 'Прочие документы',
         },
         {
           type: 'doc',
-          id: 'phuket/banks',
+          id: 'Phuket/banks',
           label: 'Банки и валюты',
         },
         {
           type: 'doc',
-          id: 'phuket/car',
+          id: 'Phuket/car',
           label: 'Своё авто',
         },
         {
           type: 'doc',
-          id: 'phuket/insurance',
+          id: 'Phuket/insurance',
           label: 'Страховки',
         },
         {
           type: 'doc',
-          id: 'phuket/services',
+          id: 'Phuket/services',
           label: 'Деловые услуги',
         },
       ],
@@ -303,37 +303,37 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'phuket/overview',
+          id: 'Phuket/overview',
           label: 'Введение',
         },
         {
           type: 'doc',
-          id: 'phuket/food',
+          id: 'Phuket/food',
           label: 'Питание',
         },
         {
           type: 'doc',
-          id: 'phuket/products',
+          id: 'Phuket/products',
           label: 'Товары',
         },
         {
           type: 'doc',
-          id: 'phuket/kids',
+          id: 'Phuket/kids',
           label: 'Для детей',
         },
         {
           type: 'doc',
-          id: 'phuket/animals',
+          id: 'Phuket/animals',
           label: 'Для животных',
         },
         {
           type: 'doc',
-          id: 'phuket/medicine',
+          id: 'Phuket/medicine',
           label: 'Медицина',
         },
         {
           type: 'doc',
-          id: 'phuket/public-transport',
+          id: 'Phuket/public-transport',
           label: 'Общественный транспорт',
         },
       ],
@@ -344,37 +344,37 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'bangkok/events',
+          id: 'Phuket/events',
           label: 'Мероприятия',
         },
         {
           type: 'doc',
-          id: 'bangkok/cafe',
+          id: 'Phuket/cafe',
           label: 'Заведения',
         },
         {
           type: 'doc',
-          id: 'bangkok/cannabis',
+          id: 'Phuket/cannabis',
           label: '4-20',
         },
         {
           type: 'doc',
-          id: 'bangkok/beaches',
+          id: 'Phuket/beaches',
           label: 'Пляжи',
         },
         {
           type: 'doc',
-          id: 'bangkok/excursions',
+          id: 'Phuket/excursions',
           label: 'Экскурсии',
         },
         {
           type: 'doc',
-          id: 'bangkok/rent',
+          id: 'Phuket/rent',
           label: 'Туристическая аренда',
         },
         {
           type: 'doc',
-          id: 'bangkok/free-time',
+          id: 'Phuket/free-time',
           label: 'Локации для досуга',
         },
       ],
