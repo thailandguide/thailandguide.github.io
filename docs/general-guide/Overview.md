@@ -1,5 +1,5 @@
 ---
-title: Общая информация
+title: Про Тайланд
 sidebar_position: 0
 slug: /general-guide/overview
 ---

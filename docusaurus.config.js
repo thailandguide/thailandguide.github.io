@@ -65,19 +65,19 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'general-guide/Overview',
+            docId: 'general-guide/overview',
             position: 'left',
             label: 'Общий гайд',
           },
           {
             type: 'doc',
-            docId: 'Bangkok/Overview',
+            docId: 'bangkok/housing',
             position: 'left',
             label: 'Бангкок',
           },
           {
             type: 'doc',
-            docId: 'Phuket/Overview',
+            docId: 'phuket/housing',
             position: 'left',
             label: 'Пхукет',
           },

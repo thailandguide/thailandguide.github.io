@@ -5,6 +5,8 @@ slug: /samui/bars
 ---
 
 
+
+
 [**Happens**](https://goo.gl/maps/tNEgDeFWsGXjpFDD8)
 
 [**Pride Bar Samui**](https://goo.gl/maps/aEUYUQdoUSfQ4fgF7)
