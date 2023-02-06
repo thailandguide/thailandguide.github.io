@@ -65,7 +65,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'general-guide/overview',
+            docId: 'general-guide/Overview',
             position: 'left',
             label: 'Общий гайд',
           },
