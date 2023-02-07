@@ -17,7 +17,33 @@ const sidebars = {
     {
       type: 'doc',
       id: 'general-guide/Overview',
-      label: 'Про Тайланд',
+      label: 'Про Таиланд',
+    },
+    {
+      type: 'category',
+      label: 'Перелёты',
+      items: [
+        {
+          type: 'doc',
+          id: 'general-guide/flights-intro',
+          label: 'Введение',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/flights-thai',
+          label: 'Перелёт в Тайланд',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/flights-countries',
+          label: 'Особенности перелёта через другие страны',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/flights-after',
+          label: 'Что делать по прилёту',
+        },
+      ],
     },
     {
       type: 'doc',
@@ -66,28 +92,13 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'general-guide/housing',
-      label: 'Жильё',
-    },
-    {
-      type: 'doc',
       id: 'general-guide/currency',
       label: 'Валюта',
     },
     {
       type: 'doc',
       id: 'general-guide/work',
-      label: 'Работа в Тайланде',
-    },
-    {
-      type: 'doc',
-      id: 'general-guide/flights',
-      label: 'Перелёты',
-    },
-    {
-      type: 'doc',
-      id: 'general-guide/simcards',
-      label: 'Сим-карты',
+      label: 'Работа в Таиланде',
     },
     {
       type: 'doc',
@@ -117,12 +128,12 @@ const sidebars = {
     {
       type: 'doc',
       id: 'general-guide/work',
-      label: 'Работа в Тайланде',
+      label: 'Работа в Таиланде',
     },
     {
       type: 'doc',
       id: 'general-guide/taxes',
-      label: 'Налоги в Тайланде',
+      label: 'Налоги в Таиланде',
     },
     {
       type: 'doc',
