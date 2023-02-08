@@ -87,33 +87,8 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'general-guide/simcards',
-      label: 'Связь',
-    },
-    {
-      type: 'doc',
-      id: 'general-guide/currency',
-      label: 'Валюта',
-    },
-    {
-      type: 'doc',
-      id: 'general-guide/work',
-      label: 'Работа в Таиланде',
-    },
-    {
-      type: 'doc',
-      id: 'general-guide/apps',
-      label: 'Приложения',
-    },
-    {
-      type: 'doc',
-      id: 'general-guide/animals',
-      label: 'Опасные животные',
-    },
-    {
-      type: 'doc',
       id: 'general-guide/insurance',
-      label: 'Страховки',
+      label: 'Страховка',
     },
     {
       type: 'doc',
