@@ -95,7 +95,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'Chiangmai/Overview',
+            docId: 'Chiangmai/Housing',
             position: 'left',
             label: 'Чиангмай',
           },

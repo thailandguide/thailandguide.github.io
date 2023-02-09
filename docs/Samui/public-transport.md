@@ -1,7 +1,7 @@
 ---
-title: Бангкок Общественный транспорт
+title: Чиангмай Общественный транспорт
 sidebar_position: 3
-slug: /bangkok/public-transport
+slug: /chiangmai/public-transport
 ---
 
 ### Бангкок
