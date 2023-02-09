@@ -539,7 +539,7 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'Chiangmai/events',
+          id: 'Chiangmai/Events',
           label: 'Мероприятия',
         },
         {
