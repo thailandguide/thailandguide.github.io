@@ -25,7 +25,7 @@ slug: /general-guide/countries
 - [Министерство Туризма](https://tourism.gov.in/)
 - [Ковид требования](https://www.mohfw.gov.in/)
 - [Список стран вылета без ПЦР](https://www.mohfw.gov.in/pdf/ListofCountriesinrespectofwhichprimaryvaccinationschedulecompletioncertificateisallowedtobeconsideredason11thOctober2022.pdf)  - список стран, гражданам которых НЕ нужен ПЦР в случае вакцинации (либо вообще просто гражданам этих стран). Спойлер – нет РФ.
-- [Требования аэропорта Нью Дели](https://www.newdelhiairport.in/covid19)  - конкретно про нью дели требования
+- [Требования аэропорта Нью Дели](https://www.newdelhiairport.in/covid19)
 - [Гайд для Дели перед полётом](https://www.newdelhiairport.in/pdf/Guidelines-for-International-arrivals-updated-on-02September2022.pdf)
 - [Анкета здоровья для Дели](https://www.newdelhiairport.in/airsuvidha/apho-registration)
 

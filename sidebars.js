@@ -452,39 +452,127 @@ const sidebars = {
   ],
   chiangmaiSidebar: [
     {
-      type: 'doc',
-      id: 'Chiangmai/Overview',
-      label: 'Общая информация',
+      type: 'category',
+      label: 'Важное',
+      items: [
+        {
+          type: 'doc',
+          id: 'Chiangmai/Housing',
+          label: 'Жильё',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/visa',
+          label: 'Визы',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/documents',
+          label: 'Прочие документы',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/banks',
+          label: 'Банки и валюты',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/car',
+          label: 'Своё авто',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/insurance',
+          label: 'Страховки',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/services',
+          label: 'Деловые услуги',
+        },
+      ],
     },
     {
-      type: 'doc',
-      id: 'Chiangmai/Transport',
-      label: 'Транспорт',
+      type: 'category',
+      label: 'Полезное',
+      items: [
+        {
+          type: 'doc',
+          id: 'Chiangmai/Overview',
+          label: 'Введение',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/food',
+          label: 'Питание',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/products',
+          label: 'Товары',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/kids',
+          label: 'Для детей',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/animals',
+          label: 'Для животных',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/medicine',
+          label: 'Медицина',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/public-transport',
+          label: 'Общественный транспорт',
+        },
+      ],
     },
     {
-      type: 'doc',
-      id: 'Chiangmai/food',
-      label: 'Еда',
-    },
-    {
-      type: 'doc',
-      id: 'Chiangmai/Events',
-      label: 'События',
-    },
-    {
-      type: 'doc',
-      id: 'Chiangmai/Bars',
-      label: 'Бары',
-    },
-    {
-      type: 'doc',
-      id: 'Chiangmai/Coworkings',
-      label: 'Коворкинги',
-    },
-    {
-      type: 'doc',
-      id: 'Chiangmai/Housing',
-      label: 'Жильё',
+      type: 'category',
+      label: 'Интересное',
+      items: [
+        {
+          type: 'doc',
+          id: 'Chiangmai/events',
+          label: 'Мероприятия',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/cafe',
+          label: 'Заведения',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/cannabis',
+          label: '4-20',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/beaches',
+          label: 'Пляжи',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/excursions',
+          label: 'Экскурсии',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/rent',
+          label: 'Туристическая аренда',
+        },
+        {
+          type: 'doc',
+          id: 'Chiangmai/free-time',
+          label: 'Локации для досуга',
+        },
+      ],
     },
   ],
   
