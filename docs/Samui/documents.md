@@ -1,5 +1,5 @@
 ---
-title: Чиангмай Прочие документы
+title: Самуи Прочие документы
 sidebar_position: 3
-slug: /chiangmai/documents
+slug: /samui/documents
 ---

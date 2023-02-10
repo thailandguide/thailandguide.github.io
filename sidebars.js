@@ -368,86 +368,252 @@ const sidebars = {
   ],
   samuiSidebar: [
     {
-      type: 'doc',
-      id: 'Samui/Overview',
-      label: 'Общая информация',
+      type: 'category',
+      label: 'Важное',
+      items: [
+        {
+          type: 'doc',
+          id: 'Phangan/Housing',
+          label: 'Жильё',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/visa',
+          label: 'Визы',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/documents',
+          label: 'Прочие документы',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/banks',
+          label: 'Банки и валюты',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/car',
+          label: 'Своё авто',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/insurance',
+          label: 'Страховки',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/services',
+          label: 'Деловые услуги',
+        },
+      ],
     },
     {
-      type: 'doc',
-      id: 'Samui/Transport',
-      label: 'Транспорт',
+      type: 'category',
+      label: 'Полезное',
+      items: [
+        {
+          type: 'doc',
+          id: 'Samui/Overview',
+          label: 'Введение',
+        },
+        {
+          type: 'doc',
+          id: 'Samui/food',
+          label: 'Питание',
+        },
+        {
+          type: 'doc',
+          id: 'Samui/products',
+          label: 'Товары',
+        },
+        {
+          type: 'doc',
+          id: 'Samui/kids',
+          label: 'Для детей',
+        },
+        {
+          type: 'doc',
+          id: 'Samui/animals',
+          label: 'Для животных',
+        },
+        {
+          type: 'doc',
+          id: 'Samui/medicine',
+          label: 'Медицина',
+        },
+        {
+          type: 'doc',
+          id: 'Samui/public-transport',
+          label: 'Общественный транспорт',
+        },
+      ],
     },
     {
-      type: 'doc',
-      id: 'Samui/food',
-      label: 'Еда',
-    },
-    {
-      type: 'doc',
-      id: 'Samui/Bars',
-      label: 'Бары',
-    },
-    {
-      type: 'doc',
-      id: 'Samui/Beaches',
-      label: 'Пляжи',
-    },
-    {
-      type: 'doc',
-      id: 'Samui/Coworkings',
-      label: 'Коворкинги',
-    },
-    {
-      type: 'doc',
-      id: 'Samui/Housing',
-      label: 'Жильё',
+      type: 'category',
+      label: 'Интересное',
+      items: [
+        {
+          type: 'doc',
+          id: 'Samui/events',
+          label: 'Мероприятия',
+        },
+        {
+          type: 'doc',
+          id: 'Samui/cafe',
+          label: 'Заведения',
+        },
+        {
+          type: 'doc',
+          id: 'Samui/cannabis',
+          label: '4-20',
+        },
+        {
+          type: 'doc',
+          id: 'Samui/Beaches',
+          label: 'Пляжи',
+        },
+        {
+          type: 'doc',
+          id: 'Samui/excursions',
+          label: 'Экскурсии',
+        },
+        {
+          type: 'doc',
+          id: 'Samui/rent',
+          label: 'Туристическая аренда',
+        },
+        {
+          type: 'doc',
+          id: 'Samui/free-time',
+          label: 'Локации для досуга',
+        },
+      ],
     },
   ],
   phanganSidebar: [
     {
-      type: 'doc',
-      id: 'Phangan/Overview',
-      label: 'Общая информация',
+      type: 'category',
+      label: 'Важное',
+      items: [
+        {
+          type: 'doc',
+          id: 'Phangan/Housing',
+          label: 'Жильё',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/visa',
+          label: 'Визы',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/documents',
+          label: 'Прочие документы',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/banks',
+          label: 'Банки и валюты',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/car',
+          label: 'Своё авто',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/insurance',
+          label: 'Страховки',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/services',
+          label: 'Деловые услуги',
+        },
+      ],
     },
     {
-      type: 'doc',
-      id: 'Phangan/Transport',
-      label: 'Транспорт',
+      type: 'category',
+      label: 'Полезное',
+      items: [
+        {
+          type: 'doc',
+          id: 'Phangan/Overview',
+          label: 'Введение',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/food',
+          label: 'Питание',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/products',
+          label: 'Товары',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/kids',
+          label: 'Для детей',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/animals',
+          label: 'Для животных',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/medicine',
+          label: 'Медицина',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/public-transport',
+          label: 'Общественный транспорт',
+        },
+      ],
     },
     {
-      type: 'doc',
-      id: 'Phangan/food',
-      label: 'Еда',
-    },
-    {
-      type: 'doc',
-      id: 'Phangan/Events',
-      label: 'События',
-    },
-    {
-      type: 'doc',
-      id: 'Phangan/Beaches',
-      label: 'Пляжи',
-    },
-    {
-      type: 'doc',
-      id: 'Phangan/Landmarks',
-      label: 'Стоит посмотреть',
-    },
-    {
-      type: 'doc',
-      id: 'Phangan/Water',
-      label: 'Водные активности',
-    },
-    {
-      type: 'doc',
-      id: 'Phangan/Massage',
-      label: 'Массаж',
-    },
-    {
-      type: 'doc',
-      id: 'Phangan/Housing',
-      label: 'Жильё',
+      type: 'category',
+      label: 'Интересное',
+      items: [
+        {
+          type: 'doc',
+          id: 'Phangan/Events',
+          label: 'Мероприятия',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/cafe',
+          label: 'Заведения',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/cannabis',
+          label: '4-20',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/Beaches',
+          label: 'Пляжи',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/excursions',
+          label: 'Экскурсии',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/rent',
+          label: 'Туристическая аренда',
+        },
+        {
+          type: 'doc',
+          id: 'Phangan/free-time',
+          label: 'Локации для досуга',
+        },
+      ],
     },
   ],
   chiangmaiSidebar: [
@@ -539,7 +705,7 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'Chiangmai/events',
+          id: 'Chiangmai/Events',
           label: 'Мероприятия',
         },
         {

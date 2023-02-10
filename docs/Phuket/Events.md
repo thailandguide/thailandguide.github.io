@@ -1,5 +1,5 @@
 ---
-title: Пхукет События
+title: Панган События
 sidebar_position: 3
 slug: /phuket/events
 ---

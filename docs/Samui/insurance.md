@@ -1,5 +1,5 @@
 ---
-title: Чиангмай Страховки
+title: Самуи Страховки
 sidebar_position: 3
-slug: /chiangmai/insurance
+slug: /samui/insurance
 ---

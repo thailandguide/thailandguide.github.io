@@ -1,5 +1,5 @@
 ---
-title: Чиангмай Товары
+title: Самуи Товары
 sidebar_position: 3
-slug: /chiangmai/products
+slug: /samui/products
 ---

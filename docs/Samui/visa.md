@@ -1,5 +1,5 @@
 ---
-title: Чиангмай Виза
+title: Самуи Виза
 sidebar_position: 3
-slug: /chiangmai/visa
+slug: /samui/visa
 ---
