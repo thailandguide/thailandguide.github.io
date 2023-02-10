@@ -1,5 +1,5 @@
 ---
-title: Чиангмай медицина
+title: Самуи медицина
 sidebar_position: 3
-slug: /chiangmai/medicine
+slug: /samui/medicine
 ---

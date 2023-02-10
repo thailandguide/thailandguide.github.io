@@ -1,5 +1,5 @@
 ---
-title: Пхукет Бары
+title: Панган Бары
 sidebar_position: 4
 slug: /phuket/bars
 ---

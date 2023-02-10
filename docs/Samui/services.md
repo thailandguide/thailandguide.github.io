@@ -1,5 +1,5 @@
 ---
-title: Чиангмай Деловые услуги
+title: Самуи Деловые услуги
 sidebar_position: 3
-slug: /chiangmai/services
+slug: /samui/services
 ---

@@ -1,5 +1,5 @@
 ---
-title: Чиангмай Локации для досуга
+title: Самуи Локации для досуга
 sidebar_position: 3
-slug: /chiangmai/free-time
+slug: /samui/free-time
 ---

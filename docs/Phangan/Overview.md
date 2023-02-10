@@ -1,7 +1,7 @@
 ---
 title: Общая информация
 sidebar_position: 0
-slug: /phangan/overview
+slug: /Phangan/overview
 ---
 
 

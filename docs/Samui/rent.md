@@ -1,5 +1,5 @@
 ---
-title: Чиангмай Туристическая аренда
+title: Самуи Туристическая аренда
 sidebar_position: 3
-slug: /chiangmai/rent
+slug: /samui/rent
 ---

@@ -1,7 +1,7 @@
 ---
-title: Чиангмай Общественный транспорт
+title: Самуи Общественный транспорт
 sidebar_position: 3
-slug: /chiangmai/public-transport
+slug: /samui/public-transport
 ---
 
 ### Бангкок

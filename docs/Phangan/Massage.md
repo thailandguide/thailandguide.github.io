@@ -1,7 +1,7 @@
 ---
 title: Панган Массаж
 sidebar_position: 7
-slug: /phangan/massage
+slug: /Phangan/massage
 ---
 
 
