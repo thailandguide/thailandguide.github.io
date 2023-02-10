@@ -455,7 +455,7 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'Samui/Events',
+          id: 'Samui/events',
           label: 'Мероприятия',
         },
         {
