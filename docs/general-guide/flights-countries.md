@@ -29,6 +29,7 @@ slug: /general-guide/countries
 - [Гайд для Дели перед полётом](https://www.newdelhiairport.in/pdf/Guidelines-for-International-arrivals-updated-on-02September2022.pdf)
 - [Анкета здоровья для Дели](https://www.newdelhiairport.in/airsuvidha/apho-registration)
 
+![indiGO](../../static/img/IndiGO.jpg)
 
 ## Через ОАЭ
 
