@@ -46,9 +46,40 @@ const sidebars = {
       ],
     },
     {
-      type: 'doc',
-      id: 'general-guide/visa',
-      label: 'Визы', 
+      type: 'category',
+      label: 'Визы',
+      items: [
+        {
+          type: 'doc',
+          id: 'general-guide/visa-intro',
+          label: 'Введение',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/visa-stamp',
+          label: 'Штамп по прибытию',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/visa-tr',
+          label: 'Туристическая виза',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/visa-ed',
+          label: 'Студенческая виза',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/visa-b',
+          label: 'Бизнес виза',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/visa-ltr',
+          label: 'Длительные визы',
+        },
+      ],
     },
     {
       type: 'doc',
