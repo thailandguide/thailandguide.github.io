@@ -163,6 +163,27 @@ const sidebars = {
           label: 'Визы',
         },
         {
+          type: 'category',
+          label: 'Визы',
+          items: [
+            {
+              type: 'doc',
+              id: 'Bangkok/visa-office',
+              label: 'Введение',
+            },
+            {
+              type: 'doc',
+              id: 'Bangkok/visa-companies',
+              label: 'Введение',
+            },
+            {
+              type: 'doc',
+              id: 'Bangkok/visa-schools',
+              label: 'Введение',
+            },
+          ],
+        },
+        {
           type: 'doc',
           id: 'Bangkok/documents',
           label: 'Прочие документы',
@@ -283,9 +304,25 @@ const sidebars = {
           label: 'Жильё',
         },
         {
-          type: 'doc',
-          id: 'Phuket/visa',
+          type: 'category',
           label: 'Визы',
+          items: [
+            {
+              type: 'doc',
+              id: 'Phuket/visa-office',
+              label: 'Введение',
+            },
+            {
+              type: 'doc',
+              id: 'Phuket/visa-companies',
+              label: 'Введение',
+            },
+            {
+              type: 'doc',
+              id: 'Phuket/visa-schools',
+              label: 'Введение',
+            },
+          ],
         },
         {
           type: 'doc',
