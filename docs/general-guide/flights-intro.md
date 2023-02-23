@@ -42,3 +42,17 @@ slug: /general-guide/flights-intro
 Кстати, при планировании перелета учитывайте наличие у вас багажа и его количество. Перелеты лоукостерами с несколькими пересадками выгодны только если у вас с собой нет ничего, кроме ручной клади.
 
 
+## Fast Track Service
+
+Ходят слухи, что в некоторых аэропортах Таиланда предоставляются услуги за стоимость 2000-6000 бат на ускоренное прохождение границы после прилета. В том числе это повышает лояльность пограничников к количеству штампов в вашем паспорте. Вы можете попробовать найти такие сервисы через гугл либо через знакомых.
+
+Вот список не проверенных сервисов, обещающих такие услуги (для примера):
+- https://fasttrack.aero/  - 110$
+- https://www.viator.com/tours/Bangkok/Guided-Fast-Track-Immigration-Service-Bangkok-Suvanabhumi-Airport/d343-90546P33?m=63845&supag=123417402168&supsc=dsa-694098303804&supai=498859254653&supdv=m&supnt=g&suplp=1012728&supli=9041325&supti=dsa-694098303804&tsem=true&supci=dsa-694098303804&supap1=&supap2=&gbraid=0AAAAAD-gbd5BVOBPXInjyzKOXyCJVrZzv&gclid=CjwKCAiA9NGfBhBvEiwAq5vSyza8qodFXZNnBxqLI58BDoXK0GC036FQTzNyqHepXCl84UPweFy3kRoCuDEQAvD_BwE - 60$
+- https://www.sunmar.ru/thailand-fast-track/ - 50-150$
+- https://www.tripadvisor.com/AttractionProductReview-g293920-d15197611-Guided_Fast_Track_Immigration_Service_Phuket_International_Airport-Phuket.html - 60$
+- https://www.coralthailand.com/booking/booking_step1.html?rou_from=1&checkin=28%2F02%2F2023&depart_time=9%3A00+AM+-+6%3A00+PM&checkout=01%2F03%2F2023&return_time=9%3A00+AM+-+6%3A00+PM&adults=2&children=0&infant=0&checktrip=arrival - порядка 60$
+- https://asiaphuket.com/fast_track - стоимость не сообщается
+
+
+

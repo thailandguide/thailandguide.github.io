@@ -77,7 +77,7 @@ const sidebars = {
         {
           type: 'doc',
           id: 'general-guide/visa-ltr',
-          label: 'Длительные визы',
+          label: 'Прочие визы',
         },
       ],
     },
