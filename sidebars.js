@@ -137,6 +137,22 @@ const sidebars = {
       label: 'Работа в Таиланде',
     },
     {
+      type: 'category',
+      label: 'Работа в Таиланде',
+      items: [
+        {
+          type: 'doc',
+          id: 'general-guide/work-permit',
+          label: 'Всё о Work Permit',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/forbidden-jobs',
+          label: 'Запрещённые профессии',
+        },
+      ],
+    },
+    {
       type: 'doc',
       id: 'general-guide/taxes',
       label: 'Налоги в Таиланде',
@@ -156,11 +172,6 @@ const sidebars = {
           type: 'doc',
           id: 'Bangkok/Housing',
           label: 'Жильё',
-        },
-        {
-          type: 'doc',
-          id: 'Bangkok/visa',
-          label: 'Визы',
         },
         {
           type: 'category',
@@ -441,37 +452,53 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'Phangan/Housing',
+          id: 'Samui/Housing',
           label: 'Жильё',
         },
         {
-          type: 'doc',
-          id: 'Phangan/visa',
+          type: 'category',
           label: 'Визы',
+          items: [
+            {
+              type: 'doc',
+              id: 'Samui/visa-office',
+              label: 'Введение',
+            },
+            {
+              type: 'doc',
+              id: 'Samui/visa-companies',
+              label: 'Введение',
+            },
+            {
+              type: 'doc',
+              id: 'Samui/visa-schools',
+              label: 'Введение',
+            },
+          ],
         },
         {
           type: 'doc',
-          id: 'Phangan/documents',
+          id: 'Samui/documents',
           label: 'Прочие документы',
         },
         {
           type: 'doc',
-          id: 'Phangan/banks',
+          id: 'Samui/banks',
           label: 'Банки и валюты',
         },
         {
           type: 'doc',
-          id: 'Phangan/car',
+          id: 'Samui/car',
           label: 'Своё авто',
         },
         {
           type: 'doc',
-          id: 'Phangan/insurance',
+          id: 'Samui/insurance',
           label: 'Страховки',
         },
         {
           type: 'doc',
-          id: 'Phangan/services',
+          id: 'Samui/services',
           label: 'Деловые услуги',
         },
       ],
@@ -570,9 +597,25 @@ const sidebars = {
           label: 'Жильё',
         },
         {
-          type: 'doc',
-          id: 'Phangan/visa',
+          type: 'category',
           label: 'Визы',
+          items: [
+            {
+              type: 'doc',
+              id: 'Phangan/visa-office',
+              label: 'Введение',
+            },
+            {
+              type: 'doc',
+              id: 'Phangan/visa-companies',
+              label: 'Введение',
+            },
+            {
+              type: 'doc',
+              id: 'Phangan/visa-schools',
+              label: 'Введение',
+            },
+          ],
         },
         {
           type: 'doc',
@@ -695,9 +738,25 @@ const sidebars = {
           label: 'Жильё',
         },
         {
-          type: 'doc',
-          id: 'Chiangmai/visa',
+          type: 'category',
           label: 'Визы',
+          items: [
+            {
+              type: 'doc',
+              id: 'Chiangmai/visa-office',
+              label: 'Введение',
+            },
+            {
+              type: 'doc',
+              id: 'Chiangmai/visa-companies',
+              label: 'Введение',
+            },
+            {
+              type: 'doc',
+              id: 'Chiangmai/visa-schools',
+              label: 'Введение',
+            },
+          ],
         },
         {
           type: 'doc',
