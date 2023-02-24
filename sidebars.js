@@ -180,17 +180,17 @@ const sidebars = {
             {
               type: 'doc',
               id: 'Bangkok/visa-office',
-              label: 'Введение',
+              label: 'Иммиграционные офисы',
             },
             {
               type: 'doc',
               id: 'Bangkok/visa-companies',
-              label: 'Введение',
+              label: 'Компании для бордеррана',
             },
             {
               type: 'doc',
               id: 'Bangkok/visa-schools',
-              label: 'Введение',
+              label: 'Школы под NON-ED Visa',
             },
           ],
         },
