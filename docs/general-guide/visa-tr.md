@@ -15,8 +15,8 @@ slug: /general-guide/visa-tr
 Важно помнить, что посольства и консульства не работают не только в праздничные дни государства, в котором находятся, но и в [праздничные дни Таиланда](../../docs/general-guide/Overview)
 
 Документы, которые могут вам пригодиться:
-- [Visa Application Form](../../static/img/VisaApplicationFormanddocs.pdf) и требуемый пакет документов
-- Образец заполнения [Visa Application Form](../../static/pdf/VisaApplicationForma.jpg)
+- [Visa Application Form](../../static/pdf/VisaApplicationFormanddocs.pdf) и требуемый пакет документов
+- Образец заполнения [Visa Application Form](../../static/img/VisaApplicationForm.jpg)
 
 **Дополнительная информация по документам**
 
