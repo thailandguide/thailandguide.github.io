@@ -54,6 +54,6 @@ slug: /general-guide/visa-ltd
 # Smart-Visa / Визы для востребованных специалистов 
 
 Источники информации:
-https://www.thaievisa.go.th/smart-visa - кратко о смарт-визе
-https://smart-visa.boi.go.th/smart/ - все о всех смарт-визах
+- https://www.thaievisa.go.th/smart-visa - кратко о смарт-визе
+- https://smart-visa.boi.go.th/smart/ - все о всех смарт-визах
 
