@@ -82,9 +82,20 @@ const sidebars = {
       ],
     },
     {
-      type: 'doc',
-      id: 'general-guide/simcards',
+      type: 'category',
       label: 'Связь',
+      items: [
+        {
+          type: 'doc',
+          id: 'general-guide/simcards-thailand',
+          label: 'Связь в Тайланде',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/simcards-rf',
+          label: 'Связь с РФ',
+        },
+      ],
     },
     {
       type: 'doc',
@@ -92,9 +103,25 @@ const sidebars = {
       label: 'Жильё',
     },
     {
-      type: 'doc',
-      id: 'general-guide/currency',
-      label: 'Валюта',
+      type: 'category',
+      label: 'Валюта и Банки',
+      items: [
+        {
+          type: 'doc',
+          id: 'general-guide/currency',
+          label: 'Валюта',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/exchange',
+          label: 'Обменники',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/banks',
+          label: 'Банки',
+        },
+      ],
     },
     {
       type: 'doc',
