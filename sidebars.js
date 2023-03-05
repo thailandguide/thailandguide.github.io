@@ -159,11 +159,6 @@ const sidebars = {
       label: 'Медицина',
     },
     {
-      type: 'doc',
-      id: 'general-guide/work',
-      label: 'Работа в Таиланде',
-    },
-    {
       type: 'category',
       label: 'Работа в Таиланде',
       items: [
