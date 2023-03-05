@@ -150,11 +150,6 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'general-guide/banks',
-      label: 'Банки',
-    },
-    {
-      type: 'doc',
       id: 'general-guide/medicine',
       label: 'Медицина',
     },
