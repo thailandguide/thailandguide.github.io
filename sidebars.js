@@ -109,7 +109,7 @@ const sidebars = {
         {
           type: 'doc',
           id: 'general-guide/currency',
-          label: 'Валюта',
+          label: 'Валюта в Тайланде',
         },
         {
           type: 'doc',
@@ -120,6 +120,11 @@ const sidebars = {
           type: 'doc',
           id: 'general-guide/banks',
           label: 'Банки',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/crypto',
+          label: 'Крипта и прочее',
         },
       ],
     },
