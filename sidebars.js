@@ -343,17 +343,17 @@ const sidebars = {
             {
               type: 'doc',
               id: 'Phuket/visa-office',
-              label: 'Введение',
+              label: 'Иммиграционные офисы',
             },
             {
               type: 'doc',
               id: 'Phuket/visa-companies',
-              label: 'Введение',
+              label: 'Компании для бордеррана',
             },
             {
               type: 'doc',
               id: 'Phuket/visa-schools',
-              label: 'Введение',
+              label: 'Школы для NON-ED Visa',
             },
           ],
         },
@@ -484,17 +484,17 @@ const sidebars = {
             {
               type: 'doc',
               id: 'Samui/visa-office',
-              label: 'Введение',
+              label: 'Иммиграционные офисы',
             },
             {
               type: 'doc',
               id: 'Samui/visa-companies',
-              label: 'Введение',
+              label: 'Компании для бордеррана',
             },
             {
               type: 'doc',
               id: 'Samui/visa-schools',
-              label: 'Введение',
+              label: 'Школы для NON-ED Visa',
             },
           ],
         },
@@ -766,17 +766,17 @@ const sidebars = {
             {
               type: 'doc',
               id: 'Chiangmai/visa-office',
-              label: 'Введение',
+              label: 'Иммиграционные офисы',
             },
             {
               type: 'doc',
               id: 'Chiangmai/visa-companies',
-              label: 'Введение',
+              label: 'Компании для бордер рана',
             },
             {
               type: 'doc',
               id: 'Chiangmai/visa-schools',
-              label: 'Введение',
+              label: 'Школы для NON-ED Visa',
             },
           ],
         },
