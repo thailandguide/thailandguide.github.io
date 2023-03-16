@@ -109,7 +109,7 @@ const sidebars = {
         {
           type: 'doc',
           id: 'general-guide/currency',
-          label: 'Валюта в Тайланде',
+          label: 'Валюта в Таиланде',
         },
         {
           type: 'doc',
@@ -154,9 +154,20 @@ const sidebars = {
       label: 'Страховка',
     },
     {
-      type: 'doc',
-      id: 'general-guide/medicine',
+      type: 'category',
       label: 'Медицина',
+      items: [
+        {
+          type: 'doc',
+          id: 'general-guide/hospitals',
+          label: 'Госпитали и аптеки',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/medicine',
+          label: 'Лекарства',
+        },
+      ]
     },
     {
       type: 'category',
@@ -183,6 +194,37 @@ const sidebars = {
       type: 'doc',
       id: 'general-guide/excursions',
       label: 'Экскурсии',
+    },
+    {
+      type: 'category',
+      label: 'Для проживающих',
+      items: [
+        {
+          type: 'doc',
+          id: 'general-guide/products',
+          label: 'Продукты',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/marketplaces',
+          label: 'Маркетплейсы',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/house-appliances',
+          label: 'Бытовая техника',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/building-furniture',
+          label: 'Строительные и мебельные магазины',
+        },
+        {
+          type: 'doc',
+          id: 'general-guide/drones',
+          label: 'Дроны',
+        },
+      ]
     },
   ],
   bangkokSidebar: [
