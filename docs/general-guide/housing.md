@@ -73,3 +73,4 @@ slug: /general-guide/housing
 
 ![advice_on_choosing_housing](../../static/img/photo_2023-02-16_20-33-03.jpg)
 
+*Лайфхак:* Можно удачно находить жилье, если добавлять агентов из объявлений с https://www.ddproperty.com  и уже у них спрашивать доступные варианты по параметрам

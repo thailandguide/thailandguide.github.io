@@ -170,6 +170,11 @@ const sidebars = {
       ]
     },
     {
+      type: 'doc',
+      id: 'general-guide/document',
+      label: 'Документы РФ',
+    },
+    {
       type: 'category',
       label: 'Работа в Таиланде',
       items: [
