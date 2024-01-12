@@ -7,6 +7,8 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
+import { YMInitializer } from 'react-yandex-metrika';
+ 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -24,6 +26,7 @@ function HomepageHeader() {
           </div>
         </div>
       </div>
+      
     </header>
   );
 }
@@ -35,9 +38,11 @@ export default function Home(): JSX.Element {
       title={`${siteConfig.title}`}
       description="Guide to Thailand is a comprehensive resource for planning a trip to Thailand, created and maintained by a community of travelers. From top tourist destinations to off-the-beaten-path experiences, our guide has something for everyone. Find information on hotels, transportation, cultural events, and more. Start planning your dream trip to Thailand today with Guide to Thailand!">
       <HomepageHeader />
+      <YMInitializer accounts={[96087561]}/>
       <main>
         <HomepageFeatures />
       </main>
+      
     </Layout>
   );
 }
